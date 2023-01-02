@@ -8,6 +8,8 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 This GitHub is meant to fix all of the grammar and spelling mistakes created by Xina and jacksight, as they are Chinese and are NOT fluent nor' native English speakers.
 All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
 
+This GitHub is also a **FORK** of the official GitHub, the unforked and original XinaA15 Reworded can be found here: [XinaA15 Unforked Reworded](https://github.com/NotDarkn/XinaA15_Unforked)
+
 # Please make sure to read the following files:
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
