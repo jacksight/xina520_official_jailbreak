@@ -23,6 +23,4 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 [Redirect to the r/Jailbreak Discord](https://discord.gg/jb)
 
 # Screenshots of XinaA15: 1.1.5
-
-![image 1](https://user-images.githubusercontent.com/73033672/210463245-374c9e37-6ecf-434b-81ff-e75577f6cd89.PNG)
-![image 2](https://user-images.githubusercontent.com/73033672/210463246-63bd7a2e-2759-45e5-b686-bac89c3df741.PNG)
+![main image](https://user-images.githubusercontent.com/73033672/210475537-3a273746-3f0d-46ef-a8ac-a6f4fe200062.PNG)
