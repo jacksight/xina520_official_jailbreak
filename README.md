@@ -23,6 +23,5 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 
 # Screenshots of XinaA15: 1.1.5
 
-![image 1](https://user-images.githubusercontent.com/73033672/210463040-83ef900c-f946-41f2-b50b-18edc8778a65.PNG)
-![image 2](https://user-images.githubusercontent.com/73033672/210463038-bf871158-5253-4f95-9d6e-5bb173b008d8.PNG)
-
+![image 1](https://user-images.githubusercontent.com/73033672/210463140-41189e80-48dd-4531-ba44-72ebcb0b3fee.PNG)
+![image 2](https://user-images.githubusercontent.com/73033672/210463141-d86f1fb0-9f6b-49cc-bfd3-9cc210c130c0.PNG)
