@@ -23,17 +23,11 @@ This GitHub is also a **FORK** of the official GitHub, the unforked and original
 - Majority to almost all of the information originally found in the .MD's
 
 # Need support for XinaA15?
-1. Create an issue on the official XinaA15 GitHub:
+1. Create an issue on the XinaA15 GitHub:
 [Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
-2. Join their Discord Server (unofficial Discord, the official Discord was deleted by jack):
-[Redirect to Unofficial XinaA15 Server](https://discord.gg/G36MhwWAd3)
+2. Join the XinaA15 Support Server:
+[Redirect to XinaA15 Server](https://discord.gg/G36MhwWAd3)
 
 3. Join the official r/jailbreak Discord Server and go to #xinaa15 OR #jailbreak:
 [Redirect to r/Jailbreak Discord](https://discord.gg/jb)
-
-# Note to anyone still reading:
-**I'm open to fixing any issues that are in this GitHub, or any of the information found in the .md's!** Just tell me on any of the platforms here:
-- Ping me in the [r/jailbreak Discord Server](https://discord.gg/jb)
-- DM me on Discord (notdarkn#7188)
-- Create an issue on this [GitHub](https://github.com/NotDarkn/XinaA15/issues)
