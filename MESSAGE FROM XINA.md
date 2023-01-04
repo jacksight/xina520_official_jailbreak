@@ -1,13 +1,11 @@
 # **This jailbreak is made by the developer @xina520.** 
-# Grammar corrected by: "alucard#2478" and "notdarkn#7188"
 
-**Warning!**
-
+# **Warning!**
 XinaA15 is a in-development jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 
-**Currently supported:**
+# **Currently supported:**
 XinaA15 currently supports many of the following:
 - Sileo
 - Built-in SSH 
@@ -18,19 +16,19 @@ XinaA15 currently supports many of the following:
 - Tweak injection
 - and etc.
 
-**Updating and Error Fixing**
+# **Updating and Error Fixing**
 
 If your jailbreak is damaged in any way possible, you can restart your phone, turn on the "rebuild jailbreak environment" toggle, and then press "openJailbreak" to re-jailbreak.
 
 If you encounter a Sileo 522 error, you can try clearing Sileo's cache to fix it. If it's still erroring however, try resetting your iPhone/iPad settings.
 
-**Supported development environments**
+# **Supported development environments**
 
 XinaA15 is currently compatible with all of the development environments you currently use.
 
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
 
-**Developers!**
+# **Developers!**
 
 There's no need to change the theos or change anything, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing needs to be changed)
 
