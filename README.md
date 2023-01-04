@@ -19,7 +19,7 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 2. Join the XinaA15 Support Server:
 [Redirect to the XinaA15 Support Server](https://discord.gg/G36MhwWAd3)
 
-3. Join the official r/jailbreak Discord Server and go to #xinaa15 OR #jailbreak:
+3. Join the official r/jailbreak Discord Server:
 [Redirect to the r/Jailbreak Discord](https://discord.gg/jb)
 
 # Screenshots of XinaA15: 1.1.5
