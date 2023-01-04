@@ -1,9 +1,5 @@
-# Quick brief note:
-Just like with any recent jailbreak as of iOS 14, no (stable) jailbreak currently supports every single iOS version of a new major version of iOS.
-
-For example, many jailbreaks these days don't support the entirety of iOS 14.x, unc0ver got close, but couldn't. Plus unc0ver is extremely buggy so not worth it.
-
-Anyways, make sure to take any precautions when using this on your device.
+# QUICK NOTE:
+XinaA15 will most likely **NOT** support all versions of 15.x or even 16.x. If you are not using a device or iOS version that is compatible with this list, then please wait for a version compatibility update from Xina520, or use a different jailbreak.
 
 # SUPPORTED iOS VERSIONS:
 **Any A12+ device running the following iOS versions:**
