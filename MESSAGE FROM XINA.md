@@ -16,12 +16,6 @@ XinaA15 currently supports many of the following:
 - Tweak injection
 - and etc.
 
-# **Updating and Error Fixing**
-
-If your jailbreak is damaged in any way possible, you can restart your phone, turn on the "rebuild jailbreak environment" toggle, and then press "openJailbreak" to re-jailbreak.
-
-If you encounter a Sileo 522 error, you can try clearing Sileo's cache to fix it. If it's still erroring however, try resetting your iPhone/iPad settings.
-
 # **Supported development environments**
 
 XinaA15 is currently compatible with all of the development environments you currently use.
