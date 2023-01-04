@@ -10,7 +10,7 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 - [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
 - [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
 - [How to remove XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
-- [How to fix XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md) | FIXES.md
+- [How to fix XinaA15 issues](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md) | FIXES.md
 - [Message from Xina520](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 # Need support for XinaA15?
