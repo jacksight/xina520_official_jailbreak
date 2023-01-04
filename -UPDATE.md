@@ -5,7 +5,7 @@
 
 2. After your device has rebooted, delete the old XinaA15 IPA in TrollStore.
 
-3. Once deleted, download the new XinaA15 IPA from [this GitHub](https://github.com/NotDarkn/XinaA15/releases) or [**jacksight's GitHub**](https://github.com/jacksight/xina520_official_jailbreak/releases)
+3. Once deleted, download the new XinaA15 IPA from the [GitHub Releases](https://github.com/jacksight/xina520_official_jailbreak/releases)
 
 4. After it's downloaded, install the new IPA in TrollStore.
 
