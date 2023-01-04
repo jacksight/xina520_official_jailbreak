@@ -57,24 +57,20 @@ During the compilation process, the console will display the current log. Please
 
 - make installl
 
-**Jailbreak Directory**
-
+# **Jailbreak Directory**
 /var/jb
 Equivalent to the previous root (this directory supports third-party APP read/write permissions, which can be used for process data interaction)
 
-**Font Directory**
-
+# **Font Directory**
 /Var/jb/Library/Fonts (fonts can be changed)
 
-**Guardian Directory**
-
+# **Guardian Directory**
 /var/jb/Library/LaunchDaemons
 
-**Please check other directories**
-
+# **For more directories, check here:**
 /var/jb/Library/
 
-**About my daemons**
+# **About my daemons**
 
 Launchdhook (can't be ended) function hook launch
 
