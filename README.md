@@ -14,7 +14,7 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 
 # Need support for XinaA15?
 1. Create an issue on the XinaA15 GitHub:
-[Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak/issues)
+[Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
 2. Join the XinaA15 Support Server:
 [Redirect to the XinaA15 Support Server](https://discord.gg/G36MhwWAd3)
