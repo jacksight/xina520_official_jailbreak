@@ -5,13 +5,13 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 
 1. Install TrollStore from opa334's GitHub, installation instructions & info can be found there too: [**opa334/TrollStore**](https://github.com/opa334/TrollStore)
 
-2. After installing TrollStore, download the XinaA15 IPA from [this GitHub](https://github.com/NotDarkn/XinaA15/releases) OR [**jacksight's GitHub**](https://github.com/jacksight/xina520_official_jailbreak/releases)
+2. After installing TrollStore, download the XinaA15 IPA from the [GitHub Releases](https://github.com/jacksight/xina520_official_jailbreak/releases)
 
 3. Once downloaded, open the IPA with TrollStore and install the IPA.
 
 4. After the IPA is installed, go to TrollStore settings and tap **Install idid**, this is required to open the XinaA15 app.
 
-5. Once it's fully installed, open the XinaA15 jailbreak and **UN-CHECK SAILY.** DO NOT USE SAILY. **EVER.**
+5. Once it's fully installed, open the XinaA15 jailbreak and **un-check Saily,** make sure Sileo stays ticked/enabled.
 
 6. After unchecking Saily, tap `openJailbreak` to start the jailbreak process.
 
