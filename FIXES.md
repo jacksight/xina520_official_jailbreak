@@ -5,7 +5,8 @@ If you encounter any of the issues below, try using the fix listed.
 
 If the fix does not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
 
-# What can I do if Sileo won't open?
+
+# What can I do if Sileo won't open/Why is the jailbreak broken?
 - Try rejailbreaking the device: Reboot → Open XinaA15 → Tap `openJailbreak`
 - Try reinstalling the jailbreak environment: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
 
