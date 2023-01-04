@@ -28,4 +28,4 @@ Please make sure to take the following precautions to prevent any damage on your
 - **Save as many blobs as you can.** - Saving blobs will allow you to downgrade back to a iOS version when needed.
 - **Do not install any dangerous tweaks.** - Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
 
-All in all, **don't be retarded and use your common sense.**
+All in all, **just use your common sense.**
