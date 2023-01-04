@@ -27,7 +27,8 @@ If the fix does not work, ask for support in either the [XinaA15 Support Server]
 - If you upgraded some of them already, fix that by: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
 
 # When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
-- Use a different repo or wait for the repo to update and support rootless targets.
+- Use a different repo/use the .deb of the tweak
+- Wait for the repo to update and support rootless targets.
 
 # When installing tweaks, I get the error "depends firmware"
 - Update XinaA15 to versions: 1.1.4 or 1.1.5
