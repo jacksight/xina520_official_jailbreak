@@ -11,11 +11,6 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 - [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.UPDATE.md) | .UPDATE.md
 - [Message from the Dev](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
-# Files unaffected:
-- All Sileo (for Xina) IPA's from either Sileo or jacksight
-- All of the Xina jailbreak IPA's made by Xina520/jacksight's GitHub
-- Majority to almost all of the information originally found in the .MD's
-
 # Need support for XinaA15?
 1. Create an issue on the XinaA15 GitHub:
 [Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak/issues)
