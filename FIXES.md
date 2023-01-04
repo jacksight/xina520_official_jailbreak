@@ -12,6 +12,7 @@ If the fix does not work, ask for support in either the [XinaA15 Support Server]
 
 # What do I do if I get "error 522" in Sileo?
 - Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
+- Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
 
 # Why can't I log into Sileo?
 - Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
