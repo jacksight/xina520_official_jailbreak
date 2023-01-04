@@ -14,7 +14,7 @@ If the fix does not work, ask for support in either the [XinaA15 Support Server]
 - Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
 - Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
 
-# Why can't I log into Sileo?
+# Why can't I log into my accounts in Sileo?
 - Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
 - Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
 
