@@ -1,5 +1,5 @@
 # **This jailbreak is made by the developer @xina520.** 
-# Most of the grammar was corrected by: "alucard#2478" and "notdarkn#7188"
+# Grammar corrected by: "alucard#2478" and "notdarkn#7188"
 
 **Warning!**
 
