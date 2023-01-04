@@ -76,7 +76,7 @@ jailbreak_ safe (non ending) function can be started again without exploiting vu
 
 Jailbreakd (cannot be ended) Function signature and all signing permission related operations
 
-### **Extra**
+# **Extra**
 
 If your storage in iCloud is full, the permanent signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
 
