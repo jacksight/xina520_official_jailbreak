@@ -26,8 +26,6 @@ If you encounter a Sileo 522 error, you can try clearing Sileo's cache to fix it
 
 **Supported development environments**
 
-**Note from Darkn:** Here on out, it gets kind of confusing on what Xina is trying to say or explain, even after multiple grammar and spelling corrections. For now, if you find any issues, please tell me!
-
 XinaA15 is currently compatible with all of the development environments you currently use.
 
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
