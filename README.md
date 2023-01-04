@@ -7,8 +7,9 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 # Please make sure to read the following files:
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
-- [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.INSTALL.md) | .INSTALL.md
-- [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.UPDATE.md) | .UPDATE.md
+- [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
+- [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
+- [How to remove XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
 - [Message from Xina520](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 # Need support for XinaA15?
@@ -22,7 +23,6 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 [Redirect to r/Jailbreak Discord](https://discord.gg/jb)
 
 # Screenshots of XinaA15: 1.1.5
-
 
 ![image 1](https://user-images.githubusercontent.com/73033672/210463245-374c9e37-6ecf-434b-81ff-e75577f6cd89.PNG)
 ![image 2](https://user-images.githubusercontent.com/73033672/210463246-63bd7a2e-2759-45e5-b686-bac89c3df741.PNG)
