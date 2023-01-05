@@ -16,12 +16,9 @@ This jailbreak was **NOT** made for normal public use, and because of that you *
 Not only that, but this jailbreak is a **rootless jailbreak.** Due to the rootless environments that were needed for XinaA15, many tweaks will be unsupported and will need an update to support rootless. If you install an untrusted, ancient (not updated), unsupported, or root-only tweak, you may encounter any of the issues below.
 
 **Issues that COULD occur if used wrong:**
-- **Device bootlooping** - (ex: Apple Logo repeatedly booting)
-- **Respring looping** - (ex: Forever loading spring icon)
-- **Data loss in apps or iOS** - (ex: Save files, in-game data)
-- **Deletion of System Apps** - (ex: Settings, Messages, gone)
-- **Future jailbreaks breaking** - (ex: can't jailbreak anymore)
-- **Accidental iOS updating** - (ex: Updated to 16.2)
+- **Device bootlooping** - [(ex: Forever Apple Logo Screen)](https://ios.cfw.guide/troubleshooting/#bootloops)
+- **Respring looping** - [(ex: Forever Loading Spring Icon)](https://ios.cfw.guide/troubleshooting/#respring-loops)
+- **Data loss** - (ex: Lost game data, broken apps, etc)
 
 Please make sure to take the following precautions to prevent any damage on your iPhone device:
 - **Backup your iPhone.** - You can use iTunes on Windows or Finder on macOS to backup your phone.
