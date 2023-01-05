@@ -1,4 +1,4 @@
-# How to properly uninstall XinaA15
+# XinaA15 Uninstallation Guide
 It seems that you have encountered issues with the XinaA15 jailbreak or just wanna unjailbreak/remove XinaA15, please follow the guide below:
 
 1. Reboot your device, either by using the `Power Off` button or [force restarting](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios).
