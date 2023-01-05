@@ -74,6 +74,8 @@ Jailbreakd (cannot be ended) Function signature and all signing permission relat
 
 If your storage in iCloud is full, the permanent signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
 
+It is also recommended to not update all of the 35 packages inside of XinaA15, while you can do this in 1.1.3.6 and 1.1.4, you should definitely not do this in 1.1.5. The other reason also being because the majority of those 35 packages are yet to be updated for rootless jailbreaks like XinaA15. Currently waiting for the developers to fix the issue.
+
 If Xina has more to say or update in his message, I will update this .txt.
 
 If you have any bugs, please report to either the official XinaA15 GitHub or join their Discord.
