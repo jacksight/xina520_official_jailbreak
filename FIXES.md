@@ -16,8 +16,8 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
 
 # Why can't I log into my accounts in Sileo?
-- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
 - Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
+- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
 
 # TrollStore downgraded to 1.3.5, what do I do?
 - Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
