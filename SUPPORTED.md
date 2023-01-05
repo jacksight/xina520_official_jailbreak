@@ -1,5 +1,5 @@
 # QUICK NOTE:
-XinaA15 will most likely **NOT** support all versions of 15.x or even 16.x. If you are using a device or iOS version that is **NOT** compatible with this list, then please wait for a version/device compatibility update from Xina520, or use a different jailbreak.
+XinaA15 will most likely **NOT** support the entirety of iOS 15 or get anywhere close to iOS 16. If you are currently using a device or iOS version that is **not compatible with this list**, then please keep waiting for a version/device compatibility update from Xina520, or use a different jailbreak (if possible).
 
 # SUPPORTED iOS VERSIONS:
 **Any A12+ device running the following iOS versions:**
