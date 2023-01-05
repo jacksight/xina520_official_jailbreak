@@ -11,7 +11,7 @@ Please check the [supported devices](https://github.com/NotDarkn/XinaA15/blob/ma
 
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 
-This jailbreak was **NOT** made for normal public use, and because of that you **WILL** encounter issues at some point.
+This jailbreak is **IN-DEVELOPMENT** and was **NOT** made for normal public use, and because of that you **WILL** encounter issues at some point.
 
 Not only that, but this jailbreak is a **rootless jailbreak.** Due to the rootless environments that were needed for XinaA15, many tweaks will be unsupported and will need an update to support rootless. If you install an untrusted, ancient (not updated), unsupported, or root-only tweak, you may encounter any of the issues below.
 
