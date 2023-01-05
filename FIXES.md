@@ -9,6 +9,10 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Try rejailbreaking the device: Reboot → Open XinaA15 → Tap `openJailbreak`
 - Try reinstalling the jailbreak environment: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
 
+# Why does XinaA15 keep respringing randomly?
+- Try uninstalling any tweaks that you've recently installed, or tweaks that are used 24/7.
+- Try fixing the dylib: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
+
 # What do I do if I get "error 522" in Sileo?
 - Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
 - Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
