@@ -11,6 +11,9 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Try uninstalling any tweaks that you've recently installed, or tweaks that are used 24/7.
 - Try fixing the dylib: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
 
+# Why can't my iPad rotate?
+- Try following the fix found here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
+
 # What do I do if I get "error 522" in Sileo?
 - Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
 - Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
@@ -33,4 +36,4 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 
 # When installing tweaks, I get the error "depends firmware"
 - Update XinaA15 to versions: 1.1.4 or 1.1.5
-- Reinstall the jailbreak environment: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
+- Update Sileo to the Nightly version or the Xina Beta.
