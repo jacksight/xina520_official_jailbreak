@@ -1,10 +1,9 @@
 # Fixes for XinaA15
 XinaA15 is a relatively safe and "stable" jailbreak, however many issues pop up here and there, and fixes are needed.
 
-If you encounter any of the issues below, try using the fix listed.
+If you encounter any of the issues below, try using the fixes listed.
 
-If the fix does not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
-
+If the fixes do not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
 
 # What can I do if Sileo won't open/Why is the jailbreak broken?
 - Try rejailbreaking the device: Reboot → Open XinaA15 → Tap `openJailbreak`
