@@ -1,0 +1,39 @@
+# Fixes for XinaA15
+XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
+
+If the fixes do not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
+
+# What can I do if Sileo won't open/Why is the jailbreak broken?
+- Try rejailbreaking the device: Reboot → Open XinaA15 → Tap `openJailbreak`
+- Try reinstalling the jailbreak environment: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
+
+# Why does XinaA15 keep respringing randomly?
+- Try uninstalling any tweaks that you've recently installed, or tweaks that are used 24/7.
+- Try fixing the dylib: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
+
+# Why can't my iPad rotate?
+- Try following the fix found here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
+
+# What do I do if I get "error 522" in Sileo?
+- Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
+- Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
+
+# Why can't I log into my accounts in Sileo?
+- Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
+- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
+
+# TrollStore downgraded to 1.3.5, what do I do?
+- Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
+- Update TrollStore through the .tar files [here](https://github.com/opa334/TrollStore/releases)
+
+# Using XinaA15 1.1.5, the 35 packages won't all update, what do I do?
+- Don't update any of these packages when using version 1.1.5.
+- If you upgraded some of them already, fix that by: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
+
+# When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
+- Use a different repo/use the .deb of the tweak
+- Wait for the repo to update and support rootless targets.
+
+# When installing tweaks, I get the error "depends firmware"
+- Update XinaA15 to versions: 1.1.4 or 1.1.5
+- Update Sileo to the Nightly version or the Xina Beta.

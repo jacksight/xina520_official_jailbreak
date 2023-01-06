@@ -1,17 +1,30 @@
-# xina520_official_jailbreak
-This is the official download website for xina520's jailbreak
-Join the discord channel to report bugs!!!
-Or leave a question on my GitHub page
-https://discord.gg/vFpnTUSD4H
-This repository is maintained by @real_jacksight, if I didn't reply your question here, DM me on my Twitter to see if I have forgotten you lol
-Hope it all goes well, happy new year. Taiwan is so fucking cold lol 🥶🥶🥶
+# XinaA15 - A iOS 15.0 to 15.1.1 jailbreak made by @xina520
+XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13.
+It's currently uncertain if Xina520 will add additional support for more iOS versions in the future.
 
-這裡是浪神的越獄工具下載頁面
-加入DC頻道來回報問題，或在此留下問題
-這個源是由 @real_jacksight維護，若我沒有在這回覆你的問題，請用Twitter聯繫我(我可能沒有看到你的留言)
-希望你們一切都好 新年快樂 台灣真他媽冷🥶🥶🥶
+Please be warned however, XinaA15 is a **in-development jailbreak** that is currently in **public beta**. If you encounter any issues or problems with the jailbreak, then please; **Uninstall the jailbreak and use it when it's more stable.**
 
-这里是浪神的越狱工具下载页面
-加入DC频道来回报问题，或在此留下问题
-这个源是由 @real_jacksight维护，若我没有在这回覆你的问题，请用Twitter联系我(我可能没有看到你的留言)
-希望你们一切都好 新年快乐 台湾真他妈冷🥶🥶🥶
+# Please make sure to read the following files:
+**Important:**
+- [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
+- [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
+- [Message from Xina520](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
+
+**XinaA15 Guides:**
+- [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
+- [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
+- [How to remove XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
+- [How to fix XinaA15 issues](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md) | FIXES.md
+
+# Need support for XinaA15?
+1. Create an issue on the XinaA15 GitHub:
+[Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
+
+2. Join the XinaA15 Support Server:
+[Redirect to the XinaA15 Support Server](https://discord.gg/G36MhwWAd3)
+
+3. Join the official r/jailbreak Discord Server:
+[Redirect to the r/Jailbreak Discord](https://discord.gg/jb)
+
+# Screenshots of XinaA15: 1.1.5
+![main image](https://user-images.githubusercontent.com/73033672/210475537-3a273746-3f0d-46ef-a8ac-a6f4fe200062.PNG)
