@@ -6,15 +6,15 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 
 # Please make sure to read the following files:
 **Important:**
-- [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
-- [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
-- [Message from Xina520](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
+- [All warnings of XinaA15](WARNINGS.md) | WARNINGS.md
+- [Supported devices/iOS](SUPPORTED.md) | SUPPORTED.md
+- [Message from Xina520](MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 **XinaA15 Guides:**
-- [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
-- [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
-- [How to remove XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
-- [How to fix XinaA15 issues](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md) | FIXES.md
+- [How to install XinaA15](-INSTALL.md) | -INSTALL.md
+- [How to update XinaA15](-UPDATE.md) | -UPDATE.md
+- [How to remove XinaA15](-REMOVE.md) | -REMOVE.md
+- [How to fix XinaA15 issues](FIXES.md) | FIXES.md
 
 # Need support for XinaA15?
 1. Create an issue on the XinaA15 GitHub:
