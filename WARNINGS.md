@@ -7,7 +7,7 @@ Please take the proper precautions below.
 
 # AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
 If you don't check this, you are more likely to run into issues or even break your device.
-Please check the [supported devices](SUPPORTED.md) list before doing anything.
+Please check the [supported devices](https://github.com/NotDarkn/XinaA15/blob/mainSUPPORTED.md) list before doing anything.
 
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 
