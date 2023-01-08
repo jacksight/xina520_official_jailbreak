@@ -26,7 +26,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
 - Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
 
-# Why can't I get the Filza dependencies from the Procursus repo?
+# Using XinaA15 1.1.6.2, why can't I get the Filza dependencies from the Procursus repo?
 - In the new Sileo: Xina Beta 4, they blocked uninstalling or installing things from the repo.
 - Please install the Filza File Manager IPA from here: [TigiSoftware Repo/Website](https://www.tigisoftware.com/default/?p=439)
 
