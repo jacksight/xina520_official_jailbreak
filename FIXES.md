@@ -45,3 +45,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 # When installing tweaks, I get the error "depends firmware"
 - Update XinaA15 to versions: 1.1.4 or 1.1.5
 - Update Sileo to the Nightly version or the Xina Beta.
+
+# Why doesn't Sileo automatically respring or reboot the device?
+- Install Sileo: Nightly through the repo here: [Amy's Repo](https://repo.anamy.gay/)
+- Install the Sileo: Nightly.deb through Filza from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
