@@ -12,7 +12,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Try fixing the dylib: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
 
 # Why does XinaA15 keep rebooting randomly?
-- Update to XinaA15 v1.1.6.2.
+- Update to XinaA15 `1.1.6.2`
 - Try the fixes above.
 
 # Why can't my iPad rotate?
