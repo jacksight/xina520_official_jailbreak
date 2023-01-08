@@ -46,6 +46,10 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Update XinaA15 to versions: 1.1.4 or 1.1.5
 - Update Sileo to the Nightly version or the Xina Beta.
 
+# When installing preferenceloader or RocketBootstrap from `apt.xina.vip`, I get `Failed with status 404`
+- Install `RocketBootstrap` from Xina's GitHub: [Zhuxinlang GitHub: RocketBootstrap](https://github.com/zhuxinlang/zhuxinlang.github.io/blob/52d74f070e55a3ab11f52e37e50f831ab6149fa5/debs/rocketbootstrap_1.1.0~libhooker2-iphoneos-arm.deb)
+- Install `preferenceloader` from Xina's GitHub: [Zhuxinlang GitHub: preferenceloader](https://github.com/zhuxinlang/zhuxinlang.github.io/blob/52d74f070e55a3ab11f52e37e50f831ab6149fa5/debs/rocketbootstrap_1.1.0~libhooker2-iphoneos-arm.deb)
+
 # Why doesn't Sileo automatically respring or reboot the device?
 - Install Sileo: Nightly through the repo here: [Amy's Repo](https://repo.anamy.gay/)
 - Install the Sileo: Nightly.deb through Filza from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
