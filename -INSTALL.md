@@ -19,7 +19,7 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 
 8. Once it states that XinaA15 is "Currently in jailbreak state", make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
-9. After Sileo is installed, you should be ready to install tweaks and use XinaA15.
+9. After Sileo is installed, you should be ready to use XinaA15 and install tweaks, themes, and more.
 
 # Extras after installation
 These are things that XinaA15 (as of right now) does not do for you, you must do all of these yourself if you want a full and successful installation of XinaA15.
