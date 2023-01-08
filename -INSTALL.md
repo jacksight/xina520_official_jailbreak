@@ -11,9 +11,9 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 
 4. After the IPA is installed, go to TrollStore settings and tap **Install idid**, this is required to open the XinaA15 app.
 
-5. Once it's installed, open the XinaA15 app.
+5. Once idid is installed, open the XinaA15 app. 
 
-6. Tap `openJailbreak` to start installing the XinaA15 jailbreak.
+6. Tap `openJailbreak` to start installing the jailbreak. This should only take about 1 to 2 minutes.
 
 7. Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says "Currently in jailbreak state". If it doesn't, try again, it may take a second try.
 
