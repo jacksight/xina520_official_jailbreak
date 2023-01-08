@@ -2,8 +2,8 @@
 
 # **Warning!**
 XinaA15 is a in-development jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
-- [All warnings of XinaA15](WARNINGS.md)
-- [Supported devices/iOS](SUPPORTED.md)
+- [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/mainWARNINGS.md)
+- [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/mainSUPPORTED.md)
 
 # **Currently supported:**
 XinaA15 currently supports many of the following:
