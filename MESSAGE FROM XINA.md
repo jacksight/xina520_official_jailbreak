@@ -1,7 +1,7 @@
 # **This jailbreak is made by the developer @xina520.** 
 
 # **Warning!**
-XinaA15 is a in-development jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
+XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 
@@ -74,8 +74,8 @@ Jailbreakd (cannot be ended) Function signature and all signing permission relat
 
 If your storage in iCloud is full, the permanent signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
 
-It is also recommended to not update all of the 35 packages inside of XinaA15, while you can do this in 1.1.3.6 and 1.1.4, you should definitely not do this in 1.1.5. The other reason also being because the majority of those 35 packages are yet to be updated for rootless jailbreaks like XinaA15. Currently waiting for the developers to fix the issue.
+It is also highly recommened to not update all of the 35 packages in Sileo. While in `1.1.3.6` and `1.1.4` it won't cause too many issues, it is absolutely recommended to not do this in `1.1.5` or above, such as `1.1.6.2`. To be fixed.
 
-If Xina has more to say or update in his message, I will update this .txt.
+If Xina has more to say or update in his message, this .txt will be updated.
 
 If you have any bugs, please report to either the official XinaA15 GitHub or join their Discord.
