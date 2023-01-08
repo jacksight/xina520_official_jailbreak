@@ -1,7 +1,7 @@
 # **This jailbreak is made by the developer @xina520.** 
 
 # **Warning!**
-XinaA15 is a in-development jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
+XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 
