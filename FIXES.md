@@ -11,6 +11,10 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Try uninstalling any tweaks that you've recently installed, or tweaks that are used 24/7.
 - Try fixing the dylib: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
 
+# Why does XinaA15 keep rebooting randomly?
+- Update to XinaA15 v1.1.6.2.
+- Try the fixes above.
+
 # Why can't my iPad rotate?
 - Try following the fix found here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
@@ -26,7 +30,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
 - Update TrollStore through the .tar files [here](https://github.com/opa334/TrollStore/releases)
 
-# Using XinaA15 1.1.5, the 35 packages won't all update, what do I do?
+# Using XinaA15 1.1.5 (or above), the 35 packages won't all update, what do I do?
 - Don't update any of these packages when using version 1.1.5.
 - If you upgraded some of them already, fix that by: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
 
