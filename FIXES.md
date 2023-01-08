@@ -52,4 +52,4 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 
 # Why doesn't Sileo automatically respring or reboot the device?
 - Install Sileo: Nightly through the repo here: [Amy's Repo](https://repo.anamy.gay/)
-- Install the Sileo: Nightly.deb through Filza from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
+- Install the Sileo: Nightly .deb through Filza from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
