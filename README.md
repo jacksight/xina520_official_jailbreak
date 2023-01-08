@@ -26,5 +26,5 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 3. Join the official r/jailbreak Discord Server:
 [Redirect to the r/Jailbreak Discord](https://discord.gg/jb)
 
-# Screenshots of XinaA15: 1.1.5
-![main image](https://user-images.githubusercontent.com/73033672/210475537-3a273746-3f0d-46ef-a8ac-a6f4fe200062.PNG)
+# Screenshots of XinaA15: 1.1.6.2
+![combined](https://user-images.githubusercontent.com/73033672/211179259-e5d8d444-e344-4ad1-8172-a78bc1940c22.png)
