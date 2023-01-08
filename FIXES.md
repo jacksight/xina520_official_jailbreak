@@ -28,7 +28,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 
 # Using XinaA15 1.1.6.2, why can't I get the Filza dependencies from the Procursus repo?
 - In the new Sileo: Xina Beta 4, they blocked uninstalling or installing things from the repo.
-- Please install the Filza File Manager IPA from here: [TigiSoftware Repo/Website](https://www.tigisoftware.com/default/?p=439)
+- Please install the Filza File Manager IPA from here or use their repo: [Tigisoftware Repo/Website](https://www.tigisoftware.com/default/?p=439)
 
 # TrollStore downgraded to 1.3.5, what do I do?
 - Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
