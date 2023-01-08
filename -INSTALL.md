@@ -24,20 +24,9 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 # Extras after installation
 These are things that XinaA15 (as of right now) does not do for you, you must do all of these yourself if you want a full and successful installation of XinaA15.
 
-**DO NOT UPDATE THE FOLLOWING PACKAGES:**
-- **libncursesw6**
-- **ncurses-term**
-- **ncurses-bin**
-- **libreadline8**
-- **libCSPreferences** (if installed)
-
-**UPDATE THIS AS THE LATEST PACKAGE:**
-- **libmd0** | This is apparently known to cause issues on Version 1.0.4. If you encounter any issues after updating this to version 1.0.4, downgrade back to 1.0.3.
-
-**If you are using XinaA15 `1.1.5`, please ignore the updating steps above and do not update any of the packages at all.**
+**Do NOT update any of the 30+ packages in Sileo.**
+When using XinaA15, it is recommmended to NOT update any of the packages in Sileo. This specifically goes for XinaA15 `1.1.5` and above, such as `1.1.6.2`.
 
 **ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
 - **RocketBootstrap** (1.1.0~libhooker2)
-
-**ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
-- **PreferenceLoader** (1.0.16)
+- **PreferenceLoader** (2.2.7)
