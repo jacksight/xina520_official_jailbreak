@@ -29,7 +29,6 @@ When using XinaA15, it is recommmended to NOT update any of the packages in Sile
 
 **ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
 - **RocketBootstrap** (1.1.0~libhooker2)
-- **Alternative SpringBoardServices** (0.1-2)
 
 **ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
 - **PreferenceLoader** (1.0.16)
