@@ -21,8 +21,8 @@ Not only that, but this jailbreak is a **rootless jailbreak.** Due to the rootle
 - **Data loss** - [(ex: Lost photos, apps, games, etc)](https://support.apple.com/en-us/HT204184)
 
 Please make sure to take the following precautions to prevent any damage on your iPhone device:
-- **Backup your iPhone.** - You can use iTunes on Windows or Finder on macOS to backup your phone.
-- **Save as many blobs as you can.** - Saving blobs will allow you to downgrade back to a iOS version when needed.
-- **Do not install any dangerous tweaks.** - Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
+- [**Backup your iPhone.**](https://support.apple.com/en-us/HT203977) - You can use iTunes on Windows or Finder on macOS to backup your phone.
+- [**Save as many blobs as you can.**](https://ios.cfw.guide/saving-blobs/) - Saving blobs will allow you to downgrade back to a iOS version when needed.
+- [**Do not install any dangerous tweaks.**](https://user-images.githubusercontent.com/73033672/211621673-bdaaec4b-9b8e-43e2-8d00-0c2fec1c962c.png) - Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
 
 All in all, **just use your common sense.**
