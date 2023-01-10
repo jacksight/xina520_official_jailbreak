@@ -1,4 +1,4 @@
-# Fixes for XinaA15s
+# Fixes for XinaA15
 XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
 
 If the fixes do not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
@@ -24,11 +24,11 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 
 # Why can't I log into my accounts in Sileo?
 - Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
-- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/)
+- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases)
 
 # Using Sileo: Xina Beta 4 (or above), why can't I get the Filza dependencies from the Procursus repo?
 - Please install the Filza File Manager IPA from here: [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
-- Please install the Filza File Manager tweak from this repo: [RepoUnclutter Repo](https://unclutter.anamy.gay/)
+- Please install the Filza File Manager tweak from this repo: [RepoUnclutter Repo](https://unclutter.anamy.gay)
 
 # TrollStore downgraded to 1.3.5, what do I do?
 - Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
