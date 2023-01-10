@@ -17,7 +17,7 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 
 7. Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says "Currently in jailbreak state". If it doesn't, try again, it may take a second try.
 
-8. Once it states that XinaA15 is "Currently in jailbreak state", make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
+8. Afterwards, make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
 9. After Sileo is installed, you should be ready to use XinaA15 and install tweaks, themes, and more.
 
