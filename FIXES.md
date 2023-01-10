@@ -43,7 +43,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Wait for the repo to update and support rootless targets.
 
 # When installing tweaks, I get the error "depends firmware"
-- Update XinaA15 to versions: `1.1.4` or above.
+- Update XinaA15 to version: `1.1.4` or above.
 - Update Sileo to the Nightly version or the Xina Beta.
 
 # When installing preferenceloader or RocketBootstrap from `apt.xina.vip`, I get `Failed with status 404`
