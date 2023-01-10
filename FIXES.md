@@ -1,4 +1,4 @@
-# Fixes for XinaA15
+# Fixes for XinaA15s
 XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
 
 If the fixes do not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
