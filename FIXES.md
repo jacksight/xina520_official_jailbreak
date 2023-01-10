@@ -35,7 +35,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Update TrollStore through the .tar files [here](https://github.com/opa334/TrollStore/releases)
 
 # Using XinaA15 1.1.5 (or above), the 35 packages won't all update, what do I do?
-- Don't update any of these packages when using version `1.1.5` or above, such as `1.1.6.2`
+- Don't update any of these packages when using version `1.1.5` or above.
 - If you upgraded some of them already, fix that by: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
 
 # When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
