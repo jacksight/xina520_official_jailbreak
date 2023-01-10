@@ -24,7 +24,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 
 # Why can't I log into my accounts in Sileo?
 - Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
-- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-2)
+- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases/)
 
 # Using Sileo: Xina Beta 4 (or above), why can't I get the Filza dependencies from the Procursus repo?
 - Please install the Filza File Manager IPA from here: [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
