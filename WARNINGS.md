@@ -18,7 +18,7 @@ Not only that, but this jailbreak is a **rootless jailbreak.** Due to the rootle
 **Issues that COULD occur if used incorrectly:**
 - [**Device bootlooping**](https://ios.cfw.guide/troubleshooting/#bootloops) → A forever-booting Apple logo.
 - [**Respring looping**](https://ios.cfw.guide/troubleshooting/#respring-loops) → A forever-loading spring icon.
-- [**Data loss**](https://support.apple.com/en-us/HT204184) → Forever lost data, photos, documents, and more.
+- [**Corrupted data**](https://support.apple.com/en-us/HT204184) → Forever lost data, photos, documents, and more.
 
 **Please make sure to take the following precautions to prevent any damage on your iPhone device:**
 - [**Backup your device.**](https://support.apple.com/en-us/HT203977) → You can use iTunes on Windows or Finder on macOS to backup your phone.
