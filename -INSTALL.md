@@ -15,7 +15,7 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 
 6. Tap **`openJailbreak`** to start installing the jailbreak. This should only take about 1 to 2 minutes.
 
-7. Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak state`**. If it doesn't, try again, it may take a second try.
+7. Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak status`**. If it doesn't, try again, it may take a second try.
 
 8. Afterwards, make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
