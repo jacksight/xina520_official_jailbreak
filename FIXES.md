@@ -15,6 +15,10 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Update to XinaA15 `1.1.6.2`
 - Try the fixes listed above.
 
+# Why does XinaA15 respring & show colored Chinese text at the top?
+- You have are currently in safe mode: Tap the text to respring back to normal mode.
+- If it goes back to safe mode: Open Sileo → Uninstall any tweaks you've recently installed.
+
 # Why can't my iPad rotate?
 - Try following the fix found here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
