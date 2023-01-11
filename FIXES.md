@@ -13,7 +13,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 
 # Why does XinaA15 keep rebooting randomly?
 - Update to XinaA15 `1.1.6.2`
-- Try the fixes above.
+- Try the fixes listed above.
 
 # Why can't my iPad rotate?
 - Try following the fix found here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
@@ -26,7 +26,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
 - Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases)
 
-# Using Sileo: Xina Beta 4 (or above), why can't I get the Filza dependencies from the Procursus repo?
+# Using Sileo: Xina Beta 4 (or higher), why can't I get the Filza dependencies from the Procursus repo?
 - Please install the Filza File Manager IPA from here: [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
 - Please install the Filza File Manager dependencies from this repo: [RepoUnclutter Repo](https://unclutter.anamy.gay)
 
@@ -34,8 +34,8 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
 - Update TrollStore through the .tar files [here](https://github.com/opa334/TrollStore/releases)
 
-# Using XinaA15 1.1.5 (or above), the 35 packages won't all update, what do I do?
-- Don't update any of these packages when using version `1.1.5` or above.
+# Using XinaA15 1.1.5 (or higher), the 35 packages won't all update, what do I do?
+- Don't update any of these packages when using version `1.1.5` or higher.
 - If you upgraded some of them already, fix that by: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
 
 # When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
@@ -43,7 +43,7 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Wait for the repo to update and support rootless targets.
 
 # When installing tweaks, I get the error "depends firmware"
-- Update XinaA15 to version: `1.1.4` or above.
+- Update XinaA15 to version: `1.1.4` or higher.
 - Update Sileo to the Nightly version or the Xina Beta.
 
 # When installing preferenceloader or RocketBootstrap from `apt.xina.vip`, I get `Failed with status 404`
