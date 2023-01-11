@@ -45,9 +45,9 @@ During the compilation process, the console will display the current log. Please
 
 2. After that, do the following:
 
-- make uninstall
+`make uninstall`
 
-- make installl
+`make installl`
 
 # **Jailbreak Directory**
 /var/jb
