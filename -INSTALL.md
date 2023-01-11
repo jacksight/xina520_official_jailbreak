@@ -1,5 +1,5 @@
 # XinaA15 Installation Guide
-As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Always use with precaution.
+**Please make sure to use XinaA15 with precaution.** This jailbreak is currently in its public beta stage and alongside that, the jailbreak is still in-development.
 
 **Precautions & Help:** [**WARNINGS.md**](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) - **Supported Devices/iOS:** [**SUPPORTED.md**](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 
