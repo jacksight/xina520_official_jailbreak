@@ -25,7 +25,7 @@ As stated many times at this point, this is a **IN-DEVELOPMENT JAILBREAK.** Alwa
 These are things that XinaA15 (as of right now) does not do for you, you must do all of these yourself if you want a full and successful installation of XinaA15.
 
 **Do NOT update any of the 30+ packages in Sileo.**
-When using XinaA15, it is recommmended to NOT update any of the packages in Sileo. This specifically goes for XinaA15 `1.1.5` and above, such as `1.1.6.2`.
+When using XinaA15, it is recommmended to NOT update any of the packages in Sileo. This specifically goes for every XinaA15 version that is `1.1.5` or higher.
 
 **ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
 - **RocketBootstrap** (1.1.0~libhooker2)
