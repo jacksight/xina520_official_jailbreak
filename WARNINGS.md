@@ -15,12 +15,12 @@ This jailbreak is **IN-DEVELOPMENT** and was **NOT** made for normal public use,
 
 Not only that, but this jailbreak is a **rootless jailbreak.** Due to the rootless environments that were needed for XinaA15, many tweaks will be unsupported and will need an update to support rootless. If you install an untrusted, ancient (not updated), unsupported, or root-only tweak, you may encounter any of the issues below.
 
-**Issues that COULD occur if used wrong:**
+**Issues that COULD occur if used incorrectly:**
 - **Device bootlooping** - [(ex: Forever Apple Logo Screen)](https://ios.cfw.guide/troubleshooting/#bootloops)
 - **Respring looping** - [(ex: Forever Loading Spring Icon)](https://ios.cfw.guide/troubleshooting/#respring-loops)
 - **Data loss** - [(ex: Lost photos, apps, games, etc)](https://support.apple.com/en-us/HT204184)
 
-Please make sure to take the following precautions to prevent any damage on your iPhone device:
+**Please make sure to take the following precautions to prevent any damage on your iPhone device:**
 - [**Backup your device.**](https://support.apple.com/en-us/HT203977) - You can use iTunes on Windows or Finder on macOS to backup your phone.
 - [**Save blobs for your device.**](https://ios.cfw.guide/saving-blobs/) - Saving blobs will allow you to downgrade back to a iOS version when needed.
 - [**Do not install any dangerous tweaks.**](https://user-images.githubusercontent.com/73033672/211621673-bdaaec4b-9b8e-43e2-8d00-0c2fec1c962c.png) - Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
