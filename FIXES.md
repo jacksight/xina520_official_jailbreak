@@ -24,6 +24,10 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - Restart your phone → Open XinaA15 → Rejailbreak
 - If it's still broken, check the guide here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
+# Why does XinaA15 get stuck when jailbreaking?
+- Unsure for what the reason for this is, however the fix is quite simple.
+- Reboot your device → Open XinaA15 → Try jailbreaking again
+
 # What do I do if I get "error 522" in Sileo?
 - Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
 - Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
