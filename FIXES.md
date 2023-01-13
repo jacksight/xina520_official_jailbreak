@@ -19,8 +19,10 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 - You have are currently in safe mode: Tap the text to respring back to normal mode.
 - If it goes back to safe mode: Open Sileo → Uninstall any tweaks you've recently installed.
 
-# Why can't my iPad rotate?
-- Try following the fix found here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
+# Why does XinaA15 break rotation on my device?
+- If you have used ldrestart (or are using an old version), you'll need to re-jailbreak to fix the issue.
+- Restart your phone → Open XinaA15 → Rejailbreak
+- If it's still broken, check the guide here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
 # What do I do if I get "error 522" in Sileo?
 - Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
