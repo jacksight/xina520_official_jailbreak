@@ -1,4 +1,3 @@
-![combined](https://user-images.githubusercontent.com/73033672/211179259-e5d8d444-e344-4ad1-8172-a78bc1940c22.png)
 # XinaA15 - A iOS 15.0 to 15.1.1 jailbreak made by @xina520
 XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13.
 It's currently uncertain if Xina520 will add additional support for more iOS versions in the future.
