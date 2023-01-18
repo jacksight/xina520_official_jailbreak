@@ -21,7 +21,7 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 [Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
 2. Join the XinaA15 Support Server:
-[Redirect to the XinaA15 Support Server](https://discord.gg/G36MhwWAd3)
+[Redirect to the XinaA15 Support Server](https://discord.gg/xina-a15)
 
 3. Join the official r/jailbreak Discord Server:
 [Redirect to the r/Jailbreak Discord](https://discord.gg/jb)
