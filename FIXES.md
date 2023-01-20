@@ -3,6 +3,10 @@ XinaA15 is a jailbreak that is in public beta and is still in-development. Due t
 
 If the fixes do not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
 
+# What tweaks are compatible with XinaA15?
+- There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks like XinaA15, however there is a tweak compatibility list that is made by the Xina Community.
+- Redirect to the: [XinaA15 Compatibility List - Google Sheets](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/)
+
 # What can I do if Sileo won't open/Why is the jailbreak broken?
 - Try rejailbreaking the device: Reboot → Open XinaA15 → Tap `openJailbreak`
 - Try reinstalling the jailbreak environment: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
