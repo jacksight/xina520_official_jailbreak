@@ -45,9 +45,9 @@ During the compilation process, the console will display the current log. Please
 
 2. After that, do the following:
 
-- make uninstall
+`make uninstall`
 
-- make installl
+`make installl`
 
 # **Jailbreak Directory**
 /var/jb
@@ -74,7 +74,7 @@ Jailbreakd (cannot be ended) Function signature and all signing permission relat
 
 If your storage in iCloud is full, the permanent signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
 
-It is also highly recommened to not update all of the 35 packages in Sileo. While in `1.1.3.6` and `1.1.4` it won't cause too many issues, it is absolutely recommended to not do this in `1.1.5` or above, such as `1.1.6.2`. To be fixed.
+It is also highly recommened to not update all of the 35 packages in Sileo. While in `1.1.3.6` and `1.1.4` it won't cause too many issues, it is absolutely recommended to not do this in `1.1.5` or higher. Planned to be fixed.
 
 If Xina has more to say or update in his message, this .txt will be updated.
 

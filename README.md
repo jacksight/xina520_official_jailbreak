@@ -14,17 +14,17 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 - [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
 - [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
 - [How to remove XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
-- [How to fix XinaA15 issues](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md) | FIXES.md
 
 # Need support for XinaA15?
-1. Create an issue on the XinaA15 GitHub:
+
+1. Join the XinaA15 Support Server:
+[Redirect to the XinaA15 Support Server](https://discord.gg/xina-a15)
+
+2. Read how to fix XinaA15 issues here:
+[Redirect to FIXES.md](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md)
+
+3. Create an issue on the XinaA15 GitHub:
 [Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
-
-2. Join the XinaA15 Support Server:
-[Redirect to the XinaA15 Support Server](https://discord.gg/G36MhwWAd3)
-
-3. Join the official r/jailbreak Discord Server:
-[Redirect to the r/Jailbreak Discord](https://discord.gg/jb)
 
 # Screenshots of XinaA15: 1.1.6.2
 ![combined](https://user-images.githubusercontent.com/73033672/211179259-e5d8d444-e344-4ad1-8172-a78bc1940c22.png)
