@@ -22,4 +22,4 @@ If you wish to fully remove **EVERYTHING** that you needed to install XinaA15, t
 
 **3.** In GTA Car Tracker, tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore.
 
-**4.** In your Persistence Helper (ex: Tips), tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore. **If you uninstall through the Persistence Helper, tap `Uninstall TrollStore`, and then tap `Uninstall Persistence Helper`.**
+**4.** In your Persistence Helper (ex: Tips), tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore. **If you uninstall through the Persistence Helper, tap `Uninstall Persistence Helper` after uninstalling TrollStore.**
