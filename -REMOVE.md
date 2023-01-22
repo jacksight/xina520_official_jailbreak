@@ -13,8 +13,8 @@ If you have encountered any tweak issues or jailbreak issues in general, **pleas
 
 **6.** After uninstalling XinaA15, everything should now be gone.
 
-# How to remove TrollStore alongside XinaA15
-If you wish to fully remove EVERYTHING that you needed to install XinaA15, then we'll be uninstalling TrollStore too, follow the guide below:
+# TrollStore Uninstallation Guide
+If you wish to fully remove **EVERYTHING** that you needed to install XinaA15, then we'll be uninstalling TrollStore too, follow the guide below:
 
 **1.** After uninstalling XinaA15, open TrollStore, the GTA Car Tracker app, or your persistence helper. **You only need to choose one.**
 
