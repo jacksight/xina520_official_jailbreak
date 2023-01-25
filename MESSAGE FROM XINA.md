@@ -78,4 +78,4 @@ It is also highly recommened to not update all of the 35 packages in Sileo. Whil
 
 If Xina has more to say or update in his message, this .txt will be updated.
 
-If you have any bugs, please report to either the official XinaA15 GitHub or join their Discord.
+If you have any bugs, please report in [GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues) or join the [XinaA15 Discord Server](https://discord.gg/xina-a15)
