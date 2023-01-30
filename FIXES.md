@@ -10,7 +10,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 3. [What can I do if the jailbreak is broken?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-the-jailbreak-is-broken)
 4. [Why does XinaA15 keep respringing randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-keep-respringing-randomly)
 5. [Why does XinaA15 keep rebooting randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-keep-rebooting-randomly)
-6. [Why does XinaA15 respring & show colored Chinese text at the top?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-respring-show-colored-Chinese-text-at-the-top)
+6. [Why does XinaA15 respring & show colored Chinese text at the top?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-respring--show-colored-chinese-text-at-the-top)
 7. [Why does XinaA15 break rotation on my device?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-break-rotation-on-my-device)
 8. [Why does XinaA15 get stuck when jailbreaking?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-get-stuck-when-jailbreaking)
 9. [What do I do if I get "error 522" in Sileo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-do-i-do-if-i-get-error-522-in-sileo)
