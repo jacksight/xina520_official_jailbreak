@@ -6,6 +6,8 @@ If the fixes do not work, ask for support in either the [XinaA15 Support Server]
 # Table of Contents
 1. [What tweaks are compatible?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-tweaks-are-compatible-with-XinaA15)
 2. [What can I do if Sileo won't open?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-Sileo-wont-open)
+3. [What can I do if the jailbreak is broken?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-the-jailbreak-is-broken)
+4. [Why does XinaA15 keep respringing randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-keep-respringing-randomly)
 
 # What tweaks are compatible with XinaA15?
 - There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
