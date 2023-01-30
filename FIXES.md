@@ -4,10 +4,23 @@ XinaA15 is a jailbreak that is in public beta and is still in-development. Due t
 If the fixes do not work, ask for support in either the [XinaA15 Support Server](https://discord.gg/G36MhwWAd3) or the [r/jailbreak Discord](https://discord.gg/jb)
 
 # Table of Contents
+Upon clicking on any of the table of contents, look at the top of your screen to find the fix.
 1. [What tweaks are compatible?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-tweaks-are-compatible-with-XinaA15)
 2. [What can I do if Sileo won't open?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-Sileo-wont-open)
 3. [What can I do if the jailbreak is broken?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-the-jailbreak-is-broken)
 4. [Why does XinaA15 keep respringing randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-keep-respringing-randomly)
+5. [Why does XinaA15 keep rebooting randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-keep-rebooting-randomly)
+6. [Why does XinaA15 respring & show colored Chinese text at the top?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-respring-show-colored-Chinese-text-at-the-top)
+7. [Why does XinaA15 break rotation on my device?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-break-rotation-on-my-device)
+8. [Why does XinaA15 get stuck when jailbreaking?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-get-stuck-when-jailbreaking)
+9. [What do I do if I get "error 522" in Sileo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-do-i-do-if-i-get-error-522-in-sileo)
+10. [Why can't I log into my accounts in SIleo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-cant-i-log-into-my-accounts-in-sileo)
+11. [Using Sileo: Xina Beta 4 (or higher), why can't I get the Filza dependencies from the Procursus repo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#using-sileo-xina-beta-4-or-higher-why-cant-i-get-the-filza-dependencies-from-the-procursus-repo)
+12. [TrollStore downgraded to 1.3.5, what do I do?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#trollstore-downgraded-to-135-what-do-i-do)
+13. [When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-adding-repos-errors-could-not-find-release-file-didnt-find-architecture-appear)
+14. [When installing tweaks, I get the error "depends firmware"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-tweaks-i-get-the-error-depends-firmware)
+15. [When installing RocketBootstrap from apt.xina.vip, I get Failed with status 404](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-rocketbootstrap-from-aptxinavip-i-get-failed-with-status-404)
+16. [Why doesn't Sileo automatically respring or reboot the device?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-doesnt-sileo-automatically-respring-or-reboot-the-device)
 
 # What tweaks are compatible with XinaA15?
 - There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
