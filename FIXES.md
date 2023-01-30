@@ -16,7 +16,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 9. [What do I do if I get "error 522" in Sileo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-do-i-do-if-i-get-error-522-in-sileo)
 10. [Why can't I log into my accounts in SIleo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-cant-i-log-into-my-accounts-in-sileo)
 11. [Using Sileo: Xina Beta 4 (or higher), why can't I get the Filza dependencies from the Procursus repo?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#using-sileo-xina-beta-4-or-higher-why-cant-i-get-the-filza-dependencies-from-the-procursus-repo)
-12. [TrollStore downgraded to 1.3.5, what do I do?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#trollstore-downgraded-to-135-what-do-i-do)\
+12. [TrollStore downgraded to 1.3.5, what do I do?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#trollstore-downgraded-to-135-what-do-i-do)
 13. [Using XinaA15 1.1.5 (or higher), the 35 packages won't all update, what do I do?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#using-xinaa15-115-or-higher-the-35-packages-wont-all-update-what-do-i-do)
 14. [When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-adding-repos-errors-could-not-find-release-file-didnt-find-architecture-appear)
 15. [When installing tweaks, I get the error "depends firmware"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-tweaks-i-get-the-error-depends-firmware)
