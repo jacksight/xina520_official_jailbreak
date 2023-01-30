@@ -9,17 +9,15 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **3.** Once downloaded, open the IPA with TrollStore and install XinaA15.
 
-**4.** After XinaA15 is installed, go to TrollStore settings and tap **`Install idid`**
+**4.** After the installation has finished, check your home screen and open the XinaA15 app.
 
-**5.** Once idid is installed, open the XinaA15 app. 
+**5.** Tap **`openJailbreak`** to start the jailbreak process. This should only take about 1 to 2 minutes.
 
-**6.** Tap **`openJailbreak`** to start the jailbreak process. This should only take about 1 to 2 minutes.
+**6.** Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak status`**. If it doesn't, try again, it may take a second try.
 
-**7.** Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak status`**. If it doesn't, try again, it may take a second try.
+**7.** Afterwards, make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
-**8.** Afterwards, make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
-
-**9.** After Sileo is installed, you should be ready to use XinaA15 and install tweaks, themes, and more.
+**8.** After Sileo is installed, you should be ready to use XinaA15 and install tweaks, themes, and more.
 
 # Extras after installation
 These are things that XinaA15 (as of right now) does not do for you, you must do all of these yourself if you want a full and successful installation of XinaA15.
