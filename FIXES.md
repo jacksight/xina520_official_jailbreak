@@ -46,7 +46,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 
 # Why does XinaA15 keep rebooting randomly?
 - **Update** to XinaA15 `1.1.6.2`
-- **Try the fixes listed above**.
+- **Remove recently installed tweaks:** Open Sileo (or Saily) → Go to the "installed" section → Uninstall any tweaks you just or recently installed.
 
 # Why does XinaA15 respring & show colored Chinese text at the top?
 - **You are currently in safe mode:** Tap the text to respring back to normal mode.
