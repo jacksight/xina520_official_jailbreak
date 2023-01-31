@@ -31,72 +31,72 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 
 # Why are my tweaks not working or taking effect?
 - This is either a case of an incompatible tweak or you haven't respringed your device yet.
-- Respring: Open XinaA15 → Tap "Respring"
-- Incompatible: Open Sileo (or Saily) → Check the tweaks depiction/changelogs → Make sure it supports iOS 15 & XinaA15 or Rootless.
+- **Respring**: Open XinaA15 → Tap "Respring"
+- **Incompatible**: Open Sileo (or Saily) → Check the tweaks depiction/changelogs → Make sure it supports iOS 15 & XinaA15 or Rootless.
 
 # What can I do if Sileo won't open?
-- Try rejailbreaking the device: Reboot → Open XinaA15 → Tap `openJailbreak`
+- **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `openJailbreak`
 
 # What can I do if the jailbreak is broken?
-- Try reinstalling the jailbreak environment: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
+- **Try reinstalling the jailbreak environment**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
 
 # Why does XinaA15 keep respringing randomly?
-- Try uninstalling any tweaks that you've recently installed, or tweaks that are used 24/7.
-- Try fixing the dylib: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
+- **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
+- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
 
 # Why does XinaA15 keep rebooting randomly?
-- Update to XinaA15 `1.1.6.2`
-- Try the fixes listed above.
+- **Update** to XinaA15 `1.1.6.2`
+- **Try the fixes listed above**.
 
 # Why does XinaA15 respring & show colored Chinese text at the top?
-- You have are currently in safe mode: Tap the text to respring back to normal mode.
-- If it goes back to safe mode: Open Sileo → Uninstall any tweaks you've recently installed.
+- **You are currently in safe mode:** Tap the text to respring back to normal mode.
+- **If it goes back to safe mode**: Open Sileo → Uninstall any tweaks you've recently installed.
 
 # Why does XinaA15 break rotation on my device?
-- If you have used ldrestart (or are using an old version), you'll need to re-jailbreak to fix the issue.
-- Restart your phone → Open XinaA15 → Rejailbreak
-- If it's still broken, check the guide here: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
+- If you have used ldrestart (or you're using an old version), you'll need to re-jailbreak to fix the issue.
+- **Restart your phone**: → Open XinaA15 → Rejailbreak
+- **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
 # Why does XinaA15 get stuck when jailbreaking?
 - Unsure for what the reason for this is, however the fix is quite simple.
-- Reboot your device → Open XinaA15 → Try jailbreaking again
+- **Reboot your device**: → Open XinaA15 → Try jailbreaking again
 
 # What do I do if I get "error 522" in Sileo?
-- Clear Sileo's cache: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
-- Try resetting your device's settings: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
+- **Clear Sileo's cache**: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
+- **Try resetting your device's settings**: Open Settings → General → Transfer or Reset iPhone → Reset All Settings
 
 # Why can't I log into my accounts in Sileo?
-- Install Sileo: Nightly from [Amy's Repo](https://repo.anamy.gay)
-- Install Sileo: Xina Beta from [here](https://github.com/Sileo/Sileo/releases)
+- **Install Sileo: Nightly** from [Amy's Repo](https://repo.anamy.gay)
+- **Install Sileo: Xina Beta** from [here](https://github.com/Sileo/Sileo/releases)
 
 # Using Sileo: Xina Beta 4 (or higher), why can't I get the Filza dependencies from the Procursus repo?
-- Please install the Filza File Manager IPA from here: [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
-- Please install the Filza File Manager dependencies from this repo: [RepoUnclutter Repo](https://unclutter.anamy.gay)
+- **Please install the Filza File Manager IPA from here:** [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
+- **Please install the Filza File Manager dependencies from this repo:** [RepoUnclutter Repo](https://unclutter.anamy.gay)
 
 # TrollStore downgraded to 1.3.5, what do I do?
-- Update TrollStore through the app: Open TrollStore → Tap "Update TrollStore to x.x.x"
-- Update TrollStore through the .tar files [here](https://github.com/opa334/TrollStore/releases)
+- **Update TrollStore through the app:** Open TrollStore → Tap "Update TrollStore to x.x.x"
+- **Update TrollStore through the .tar** files [here](https://github.com/opa334/TrollStore/releases)
 
 # Using XinaA15 1.1.5 (or higher), the 35 packages won't all update, what do I do?
-- Don't update any of these packages when using version `1.1.5` or higher.
-- If you upgraded some of them already, fix that by: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
+- **Don't update any of those packages** when using version `1.1.5` or higher.
+- **If you upgraded some of them already, fix that by**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
 
 # When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
-- Use a different repo/use the .deb of the tweak
-- Wait for the repo to update and support rootless targets.
+- **Use a different repo**/use the .deb of the tweak
+- **Wait for the repo to update** and support rootless targets.
 
 # When installing tweaks, I get the error "depends firmware"
-- Update XinaA15 to version: `1.1.4` or higher.
-- Update Sileo to the Nightly version or the Xina Beta.
+- **Update XinaA15 to version**: `1.1.4` or higher.
+- **Update Sileo** to the Nightly version or the Xina Beta.
 
 # When installing RocketBootstrap from `apt.xina.vip`, I get `Failed with status 404`
-- Install the `RocketBootstrap.deb` from Xina's GitHub: [Zhuxinlang GitHub: RocketBootstrap](https://github.com/zhuxinlang/zhuxinlang.github.io/blob/main/debs/com.rpetrich.rocketbootstrap_1.0.10~beta2_iphoneos-arm.deb)
+- **Install the `RocketBootstrap.deb` from Xina's GitHub:** [Zhuxinlang GitHub: RocketBootstrap](https://github.com/zhuxinlang/zhuxinlang.github.io/blob/main/debs/com.rpetrich.rocketbootstrap_1.0.10~beta2_iphoneos-arm.deb)
 
 # Why doesn't Sileo automatically respring or reboot the device?
-- Install Sileo: Nightly through the repo here: [Amy's Repo](https://repo.anamy.gay/)
-- Install the Sileo: Nightly .deb through Filza from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
+- **Install Sileo: Nightly through the repo here:** [Amy's Repo](https://repo.anamy.gay/)
+- **Install the Sileo: Nightly .deb through Filza from here:** [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
 # When installing XinaA15 through TrollStore, the error ["Install Error 175"](https://preview.redd.it/kodi-for-trollstore-v0-14js9rdhw6r91.jpg?width=640&crop=smart&auto=webp&s=62c116415fe26887503aa8e9866ef35eb76ea4bc) pops up.
 - You are currently missing idid on TrollStore, this can be simply installed however.
-- Install TrollStore `1.5.0` or later to automatically install idid. **(Recommended)**
-- Or, open TrolLStore, tap Settings, and tap "Install idid"
+- **Install TrollStore `1.5.0`** or later from [here](https://github.com/opa334/TrollStore/releases)
+- **Install idid through TrollStore:** Open TrolLStore → Tap Settings → Tap "Install idid"
