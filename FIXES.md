@@ -45,6 +45,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 - **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
 
 # Why does XinaA15 keep rebooting randomly?
+- This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, however you can still try the fixes below.
 - **Update** to XinaA15 `1.1.6.2`
 - **Remove recently installed tweaks:** Open Sileo (or Saily) → Go to the "installed" section → Uninstall any tweaks you just or recently installed.
 
