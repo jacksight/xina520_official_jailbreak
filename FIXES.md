@@ -36,6 +36,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 
 # What can I do if Sileo won't open?
 - **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `openJailbreak`
+- **Try reinstalling Sileo**: Download Sileo x Xina from [here](https://github.com/Sileo/Sileo/releases)
 
 # What can I do if the jailbreak is broken?
 - **Try reinstalling the jailbreak environment**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
