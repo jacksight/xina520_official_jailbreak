@@ -23,7 +23,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 16. [When installing tweaks, I get the error "depends firmware"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-tweaks-i-get-the-error-depends-firmware)
 17. [When installing RocketBootstrap from apt.xina.vip, I get Failed with status 404](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-rocketbootstrap-from-aptxinavip-i-get-failed-with-status-404)
 18. [Why doesn't Sileo automatically respring or reboot the device?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-doesnt-sileo-automatically-respring-or-reboot-the-device)
-19. [When installing XinaA15 through TrollStore, the error "Install Error 175" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-175-pops-up)
+19. [When installing XinaA15 through TrollStore, the error "Install Error 173" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-173-pops-up)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
