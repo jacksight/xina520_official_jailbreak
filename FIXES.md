@@ -102,4 +102,4 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 # When installing XinaA15 through TrollStore, the error ["Install Error 175"](https://user-images.githubusercontent.com/73033672/216362874-7403021e-a1e2-4be3-a6c1-a4cba39ab12e.png) pops up.
 - You are currently missing idid on TrollStore, this can be simply installed however.
 - **Install TrollStore `1.5.0`** or later from [here](https://github.com/opa334/TrollStore/releases)
-- **Install idid through TrollStore:** Open TrolLStore → Tap Settings → Tap "Install idid"
+- **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap "Install Idid"
