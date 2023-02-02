@@ -99,7 +99,7 @@ Unsure for what the reason for this is, however the fix is quite simple.
 - **Install Sileo: Nightly through the repo here:** [Amy's Repo](https://repo.anamy.gay/)
 - **Install the Sileo: Nightly .deb through Filza from here:** [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
-# When installing XinaA15 through TrollStore, the error ["Install Error 175"](https://user-images.githubusercontent.com/73033672/216362874-7403021e-a1e2-4be3-a6c1-a4cba39ab12e.png) pops up.
+# When installing XinaA15 through TrollStore, the error ["Install Error 173"](https://user-images.githubusercontent.com/73033672/216380882-1e6dc245-65f1-42ed-b1e1-18a55e624aa9.png) pops up.
 You are currently missing idid on TrollStore, this can be simply installed however.
 - **Install TrollStore `1.5.0`** or later from [here](https://github.com/opa334/TrollStore/releases)
 - **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap "Install Idid"
