@@ -25,6 +25,8 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 18. [Why doesn't Sileo automatically respring or reboot the device?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-doesnt-sileo-automatically-respring-or-reboot-the-device)
 19. [When installing XinaA15 through TrollStore, the error "Install Error 173" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-173-pops-up)
 20. [Installing a tweak on Sileo I get the error "An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-a-tweak-on-sileo-i-get-the-error-an-unknown-error-occured-problem-with-varlistsunclutteranamygay)
+21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
+
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
 - **Redirect to the** [XinaA15 Compatibility List - Google Sheets](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/)
@@ -107,3 +109,7 @@ You are currently missing idid on TrollStore, this can be simply installed howev
 # Installing a tweak on Sileo I get the error ["An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://user-images.githubusercontent.com/73033672/216381984-1b05b9cc-4da6-40c8-b402-623b82360457.jpg)
 When you have the `unclutter.anamy.gay` repo, have something installed from it, and refresh it with no internet, installing anything will break. You can fix this by:
 - **Remove the repo or/and re-add it:** Go to Sources → Tap `Edit` → Remove the **RepoUnclutter** Repo → Try installing your tweak again.
+
+# Turning off my phone after rejailbreaking makes my phone go black!
+For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go to turn off your phone right after, the screen goes black. Follow the fix below.
+- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6)
