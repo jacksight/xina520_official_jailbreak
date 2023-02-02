@@ -112,4 +112,4 @@ When you have the `unclutter.anamy.gay` repo, have something installed from it, 
 
 # Turning off my phone after rejailbreaking makes my phone go black!
 For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go to turn off your phone right after, the screen goes black. Follow the fix below.
-- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6)
+- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → After force rebooting, rejailbreak your phone.
