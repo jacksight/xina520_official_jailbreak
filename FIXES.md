@@ -26,11 +26,11 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 19. [When installing XinaA15 through TrollStore, the error "Install Error 175" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-175-pops-up)
 
 # What tweaks are compatible with XinaA15?
-- There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
-- Redirect to the: [XinaA15 Compatibility List - Google Sheets](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/)
+There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
+- **Redirect to the** [XinaA15 Compatibility List - Google Sheets](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/)
 
 # Why are my tweaks not working or taking effect?
-- This is either a case of an incompatible tweak or you haven't respringed your device yet.
+This is either a case of an incompatible tweak or you haven't respringed your device yet.
 - **Respring**: Open XinaA15 → Tap "Respring"
 - **Incompatible**: Open Sileo (or Saily) → Check the tweaks depiction/changelogs → Make sure it supports iOS 15 & XinaA15 or Rootless.
 
@@ -46,7 +46,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 - **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
 
 # Why does XinaA15 keep rebooting randomly?
-- This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, however you can still try the fixes below.
+This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, however you can still try the fixes below.
 - **Update** to XinaA15 `1.1.6.2`
 - **Remove recently installed tweaks:** Open Sileo (or Saily) → Go to the "installed" section → Uninstall any tweaks you just or recently installed.
 
@@ -55,13 +55,13 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 - **If it goes back to safe mode**: Open Sileo → Uninstall any tweaks you've recently installed.
 
 # Why does XinaA15 break rotation on my device?
-- Main cause of this could be because of how; You used ldrestart, XinaA15 automatically did a ldrestart, or you need to update XinaA15.
+Main cause of this could be because of how; You used ldrestart, XinaA15 automatically did a ldrestart, or you need to update XinaA15.
 - **Update XinaA15:** Foloow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
 - **Try rebooting:** Restart your phone → Open XinaA15 → Rejailbreak
 - **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
 # Why does XinaA15 get stuck when jailbreaking?
-- Unsure for what the reason for this is, however the fix is quite simple.
+Unsure for what the reason for this is, however the fix is quite simple.
 - **Reboot your device**: → Open XinaA15 → Try jailbreaking again
 
 # What do I do if I get "error 522" in Sileo?
@@ -100,6 +100,6 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 - **Install the Sileo: Nightly .deb through Filza from here:** [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
 
 # When installing XinaA15 through TrollStore, the error ["Install Error 175"](https://user-images.githubusercontent.com/73033672/216362874-7403021e-a1e2-4be3-a6c1-a4cba39ab12e.png) pops up.
-- You are currently missing idid on TrollStore, this can be simply installed however.
+You are currently missing idid on TrollStore, this can be simply installed however.
 - **Install TrollStore `1.5.0`** or later from [here](https://github.com/opa334/TrollStore/releases)
 - **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap "Install Idid"
