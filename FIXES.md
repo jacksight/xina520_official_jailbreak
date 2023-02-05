@@ -64,7 +64,8 @@ Main cause of this could be because of how; You used ldrestart, XinaA15 automati
 
 # Why does XinaA15 get stuck when jailbreaking?
 Unsure for what the reason for this is, however the fix is quite simple.
-- **Reboot your device**: → Open XinaA15 → Try jailbreaking again
+- **Try rebooting:** Reboot your phone → Open XinaA15 → Try jailbreaking again
+- **Try reopening:** Fully close XinaA15 in the app switcher → Reopen XinaA15 → Try jailbreaking again
 
 # What do I do if I get "error 522" in Sileo?
 - **Clear Sileo's cache**: Open Sileo → Settings → Tap Cache Size → Press `OK` to Clear
