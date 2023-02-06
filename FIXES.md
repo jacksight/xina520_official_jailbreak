@@ -34,7 +34,7 @@ There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks 
 # Why are my tweaks not working or taking effect?
 This is either a case of an incompatible tweak or you haven't respringed your device yet.
 - **Respring**: Open XinaA15 → Tap "Respring"
-- **Incompatible**: Open Sileo (or Saily) → Check the tweaks depiction/changelogs → Make sure it supports iOS 15 & XinaA15 or Rootless.
+- **Incompatible**: Open Sileo (or Saily) → Check the tweak's depiction/changelogs → Make sure it supports iOS 15 & XinaA15 
 
 # What can I do if Sileo won't open?
 - **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `openJailbreak`
