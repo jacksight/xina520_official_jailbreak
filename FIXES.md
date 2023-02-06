@@ -29,7 +29,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
-- **Redirect to the** [XinaA15 Compatibility List - Google Sheets](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/)
+- **Redirect to the** [XinaA15 Compatibility List - Google Sheets](https://docs.google.com/spreadsheets/u/0/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/htmlview)
 
 # Why are my tweaks not working or taking effect?
 This is either a case of an incompatible tweak or you haven't respringed your device yet.
