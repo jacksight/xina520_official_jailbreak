@@ -16,6 +16,8 @@ XinaA15 will most likely **NOT** support the entirety of iOS 15 and will most li
 - iPhone 11 (A13)
 - iPhone 12 (A14)
 - iPhone 13 (A15)
+- iPhone SE 2nd Generation (A13)
+- iPhone SE 3rd Generation (A15)
 - iPad Pro 11in 1st Generation (A12X)
 - iPad Pro 11in 2nd Generation (A12Z)
 - iPad Pro 11in 3rd Generation (M1)
