@@ -72,7 +72,7 @@ launchdhook (can't be ended) function hook launch
 
 jailbreak_ safe (non ending) function can be started again without exploiting vulnerabilities
 
-Jailbreakd (cannot be ended) Function signature and all signing permission related operations
+jailbreakd (cannot be ended) Function signature and all signing permission related operations
 
 # **Extra**
 
