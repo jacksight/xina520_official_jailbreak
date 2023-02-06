@@ -1,20 +1,23 @@
 # **This jailbreak is made by the developer @xina520.** 
 
+Please do not bombard his Twitter or his messages with requests about the jailbreak such as fixing issues or to add support for an iOS version/device. He made a jailbreak for A12+ on 15.0-15.1 and we should be grateful for that.
+
 # **Warning!**
+
 XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 
 # **Currently supported:**
+
 XinaA15 currently supports many of the following:
 - Sileo
 - Built-in SSH 
 - libsubstitiute
 - libhooker
-- Procursus repo
-- BigBoss repo
+- Proscurus, BigBoss, and more repos
 - Tweak injection
-- and etc.
+- etc
 
 # **Supported development environments**
 
@@ -24,30 +27,31 @@ Currently, the debug server fully supports the debugging of additional processes
 
 # **Developers!**
 
-There's no need to change the theos or change anything, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing needs to be changed)
+There's no need to change **theos** or anything else, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing else needs to be changed)
 
 - Full support for make install
-- Full support for make uninstalll
+- Full support for make uninstall
 - Full support for make do
 
 **Installaton of iOSOpendev:**
+
 For the normal use and installation of iOSOpendev, no changes are required.
 
 1. Compile the log. 
 
 During the compilation process, the console will display the current log. Please ignore the following:
 
-`ldid: Unknown header magic`
+`Idid: Unknown header magic`
 
 `Are you sure that is a Mach-O?`
 
-`ldid: operator(): No such file or directory`
+`Idid: operator(): No such file or directory`
 
 2. After that, do the following:
 
 `make uninstall`
 
-`make installl`
+`make install`
 
 # **Jailbreak Directory**
 /var/jb
@@ -64,7 +68,7 @@ Equivalent to the previous root (this directory supports third-party APP read/wr
 
 # **About my daemons**
 
-Launchdhook (can't be ended) function hook launch
+launchdhook (can't be ended) function hook launch
 
 jailbreak_ safe (non ending) function can be started again without exploiting vulnerabilities
 
