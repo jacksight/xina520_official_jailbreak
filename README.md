@@ -6,14 +6,14 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 
 # Please make sure to read the following files:
 **Important:**
-- [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
-- [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
-- [Message from Xina520](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
+- [Warnings about XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
+- [Device/iOS Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
+- [Message from xina520](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 **XinaA15 Guides:**
-- [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
-- [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
-- [How to remove XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
+- [XinaA15 Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
+- [XinaA15 Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
+- [XinaA15 Removal Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
 
 # Need support for XinaA15?
 
