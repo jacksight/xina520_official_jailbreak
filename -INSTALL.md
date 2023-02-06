@@ -21,8 +21,8 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **8.** After Sileo is installed, you should be ready to use XinaA15 and install tweaks, themes, and more.
 
-# Extras after installation
-These are things that XinaA15 (as of right now) does not do for you, you must do all of these yourself if you want a full and successful installation of XinaA15.
+# Installation Extras
+These are extra things that should be done after jailbreaking with XinaA15. Doing these things will either improve your experience with XinaA15, or help prevent issues.
 
 **Do NOT update any of the 30+ packages in Sileo.**
 When using XinaA15, it is recommmended to NOT update any of the packages in Sileo. This specifically goes for every XinaA15 version that is `1.1.5` or higher.
