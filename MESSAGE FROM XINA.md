@@ -1,6 +1,6 @@
 # **This jailbreak is made by the developer @xina520.** 
 
-Please do not harass or bombard the developer's Twitter. Do not go asking or harassing him about adding more iOS versions or devices, or to fix issues that you encounter. He made a jailbreak for A12+ devices running iOS 15.0 up to 15.1 and we should be grateful for that.
+Please do not harass or bombard the developer's Twitter. Do not go asking or harassing him about adding more iOS versions or devices, or to fix issues that you encounter. He made a jailbreak for A12+ devices running iOS 15.0 up to 15.1.1 and we should be grateful for that.
 
 # **Warning!**
 
@@ -17,7 +17,7 @@ XinaA15 currently supports many of the following:
 - libhooker
 - Proscurus, BigBoss, and more repos
 - Tweak injection
-- etc
+- and etc.
 
 # **Supported development environments**
 
