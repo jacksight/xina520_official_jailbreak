@@ -1,6 +1,6 @@
 # **This jailbreak is made by the developer @xina520.** 
 
-Please do not bombard his Twitter or his messages with requests about the jailbreak such as fixing issues or to add support for an iOS version/device. He made a jailbreak for A12+ on 15.0-15.1 and we should be grateful for that.
+Please do not harass or bombard the developer's Twitter. Do not go asking or harassing him about adding more iOS versions or devices, or to fix issues that you encounter. He made a jailbreak for A12+ devices running iOS 15.0 up to 15.1 and we should be grateful for that.
 
 # **Warning!**
 
