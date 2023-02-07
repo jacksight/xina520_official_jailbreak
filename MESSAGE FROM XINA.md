@@ -5,8 +5,8 @@ Please do not harass or bombard the developer's Twitter. Do not go asking or har
 # **Warning!**
 
 XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
-- [Warnings About XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 - [Device Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
+- [Warnings About XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 
 # **Currently supported:**
 
