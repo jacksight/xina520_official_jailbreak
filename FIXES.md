@@ -57,7 +57,7 @@ This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, 
 - **If it goes back to safe mode**: Open Sileo → Uninstall any tweaks you've recently installed.
 
 # Why does XinaA15 break rotation on my device?
-Main cause of this could be because of how; You used ldrestart, XinaA15 automatically did a ldrestart, or you need to update XinaA15.
+Main cause(s) of this could be because: You used ldrestart, XinaA15 automatically did a ldrestart, or you need to update XinaA15.
 - **Update XinaA15:** Foloow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
 - **Try rebooting:** Restart your phone → Open XinaA15 → Rejailbreak
 - **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
