@@ -11,13 +11,11 @@ XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT**
 # **Currently supported:**
 
 XinaA15 currently support (or include) many of the following:
-- Sileo
-- Built-in SSH 
-- libsubstitiute
-- libhooker
-- Proscurus, BigBoss, and more repos
-- Tweak injection
-- and etc.
+- Sileo, Saily, etc
+- Built-in SSH, Tweak injection, etc
+- libsubstitiute, libhooker, etc
+- Proscurus, BigBoss, and etc
+- and many more.
 
 # **Supported development environments**
 
