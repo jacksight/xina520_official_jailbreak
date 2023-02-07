@@ -10,7 +10,7 @@ XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT**
 
 # **Currently supported:**
 
-XinaA15 currently supports many of the following:
+XinaA15 currently support (or include) many of the following:
 - Sileo
 - Built-in SSH 
 - libsubstitiute
