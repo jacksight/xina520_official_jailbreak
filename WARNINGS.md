@@ -7,13 +7,13 @@ Please take the proper precautions below.
 
 # AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
 If you don't check this, you are more likely to run into issues or even break your device.
-Please check the [supported devices](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) list before doing anything.
+Please check the [supported devices list](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) before doing anything.
 
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 
-This jailbreak is currently in it's **public beta stage** and due to this you **WILL** encounter issues at a certain point of time.
+This jailbreak is currently in its **public beta stage** and due to this you **WILL** encounter issues at a certain point of time.
 
-Not only that, but this jailbreak is a **rootless jailbreak.** Due to the rootless environments that were needed for XinaA15, many tweaks will be unsupported and will need an update to support rootless. If you install an untrusted, ancient (not updated), unsupported, or root-only tweak, you may encounter any of the issues below.
+Not only that, but this is a **rootless jailbreak.** Due to the rootless nature of XinaA15, many tweaks will be unsupported and will need an update to support rootless & iOS 15. If you install an untrusted, ancient (not updated), unsupported, or root-only tweak, you may encounter any of the issues below.
 
 **Issues that COULD occur if used incorrectly:**
 - [**Device bootlooping**](https://ios.cfw.guide/troubleshooting/#bootloops) → A forever-booting Apple logo.

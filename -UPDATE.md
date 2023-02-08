@@ -3,7 +3,7 @@
 
 **1.** Reboot your device, either by using the `Power Off` button or [force restarting](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios).
 
-**2.** After your device has rebooted, delete the old XinaA15 IPA in TrollStore.
+**2.** After your device has rebooted, delete the old XinaA15 app in TrollStore.
 
 **3.** Once deleted, download the new XinaA15 IPA from the [GitHub Releases](https://github.com/jacksight/xina520_official_jailbreak/releases)
 
