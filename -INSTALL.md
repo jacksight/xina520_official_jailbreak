@@ -17,7 +17,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **6.** Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak status`**. If it doesn't, try again, it may take a second try.
 
-**7.** Afterwards, make sure to install the latest Sileo: Xina Beta IPA through TrollStore from here: [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
+**7.** Afterwards, make sure to install the latest Sileo: Xina IPA through TrollStore from here: [Sileo: Xina IPA](https://github.com/Sileo/Sileo/releases)
 
 **8.** After Sileo is installed, you should be ready to use XinaA15 and install tweaks, themes, and more.
 
