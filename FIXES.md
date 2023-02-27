@@ -27,6 +27,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 20. [Installing a tweak on Sileo I get the error "An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-a-tweak-on-sileo-i-get-the-error-an-unknown-error-occured-problem-with-varlistsunclutteranamygay)
 21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
 22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
+23. [After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!](https://github.com/NotDarkn/XinaA15/edit/main/FIXES.md#after-installing-a-tweak-that-worked-on-a-previous-version-of-xinaa15-it-freezes-my-phone-after-using-it)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
@@ -119,3 +120,8 @@ For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go 
 # The v1.1.7.1 XinaA15 app states that ["your jailbreak enironment is lower than the latest version 1.1.7"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
 This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
 - **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
+
+# After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!
+This is a rare occurence that can happen with tweaks like BigSurCenter and CCSupport.
+- **Enable Safe Mode and Uninstall Your Tweak**: Reboot → Open XinaA15 → Tap `OpenJailbreak` → Tap `Cancel` to enter Safe Mode → Uninstall your tweak → Tap `ldrestart` in the XinaA15 app to exit out of safe mode.
+- **Reinstall the jailbreak environment**: Reboot → Open XinaA15 → Tap the gear icon (Settings) and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak` → Tap `OK` after it finished.
