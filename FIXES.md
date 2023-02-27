@@ -76,8 +76,8 @@ Unsure for what the reason for this is, however the fix is quite simple.
 - **Install Sileo: Xina Beta** from [here](https://github.com/Sileo/Sileo/releases)
 
 # Using Sileo: Xina Beta 4 (or higher), why can't I get the Filza dependencies from the Procursus repo?
+In the new versions of Sileo: Xina, they disabled installing or removing packages from the Proscurus repo, and they have removed the Proscurus repo.
 - **Please install the Filza File Manager IPA from here:** [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
-- **Please install the Filza File Manager dependencies from this repo:** [RepoUnclutter Repo](https://unclutter.anamy.gay)
 
 # TrollStore downgraded to 1.3.5, what do I do?
 - **Update TrollStore through the app:** Open TrollStore → Tap "Update TrollStore to x.x.x"
