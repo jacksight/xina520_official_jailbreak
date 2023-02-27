@@ -13,6 +13,6 @@
 
 **6.** In XinaA15 settings, enable: `Reinstall the jailbreak environment` **THIS IS NECESSARY.**
 
-**7.** After enabling this, tap `openJailbreak` to re-jailbreak.
+**7.** After enabling this, tap `OpenJailbreak` to re-jailbreak.
 
 **8.** Once your device has rebooted, XinaA15 should now be updated. 
