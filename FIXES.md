@@ -51,7 +51,7 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 # Why does XinaA15 keep rebooting randomly?
 This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, however you can still try the fixes below.
-- **Update** to XinaA15 `1.1.6.2`
+- **Update** to XinaA15 `1.1.6.2` or later.
 - **Remove recently installed tweaks:** Open Sileo (or Saily) → Go to the "installed" section → Uninstall any tweaks you just or recently installed.
 
 # Why does XinaA15 respring & show colored Chinese text at the top?
