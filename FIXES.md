@@ -38,15 +38,15 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 - **Incompatible**: Open Sileo (or Saily) → Check the tweak's depiction/changelogs → Make sure it supports iOS 15 & XinaA15 
 
 # What can I do if Sileo won't open?
-- **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `openJailbreak`
+- **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `OpenJailbreak`
 - **Try reinstalling Sileo**: Download Sileo x Xina from [here](https://github.com/Sileo/Sileo/releases)
 
 # What can I do if the jailbreak is broken?
-- **Try reinstalling the jailbreak environment**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
+- **Try reinstalling the jailbreak environment**: Reboot → Open XinaA15 → Go into Settings and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak`
 
 # Why does XinaA15 keep respringing randomly?
 - **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
-- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
+- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `OpenJailbreak` → Wait till it says "Done." → Tap `Ldrestart`
 
 # Why does XinaA15 keep rebooting randomly?
 This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, however you can still try the fixes below.
@@ -58,9 +58,9 @@ This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, 
 - **If it goes back to safe mode**: Open Sileo → Uninstall any tweaks you've recently installed.
 
 # Why does XinaA15 break rotation on my device?
-Main cause(s) of this could be because: You used ldrestart, XinaA15 automatically did a ldrestart, or you need to update XinaA15.
+Main cause(s) of this could be because: You used Ldrestart, XinaA15 automatically did a Ldrestart, or you need to update XinaA15.
 - **Update XinaA15:** Foloow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
-- **Try rebooting:** Restart your phone → Open XinaA15 → Rejailbreak
+- **Try rebooting:** Restart your phone → Open XinaA15 → Tap `OpenJailbreak` to re-jailbreak.
 - **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
 # Why does XinaA15 get stuck when jailbreaking?
@@ -85,8 +85,8 @@ In the new versions of Sileo: Xina, they disabled installing or removing package
 - **Update TrollStore through the .tar** files [here](https://github.com/opa334/TrollStore/releases)
 
 # Using XinaA15 1.1.5 (or higher), the 35 packages won't all update, what do I do?
-- **Don't update any of those packages** when using version `1.1.5` or higher.
-- **If you upgraded some of them already, fix that by**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
+Don't update any of those packages when using version `1.1.5` or higher, this will break the jailbreak.
+- **If you upgraded some of them already**: Reboot → Open XinaA15 → Go into Settings and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak` 
 
 # When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
 - **Use a different repo**/use the .deb of the tweak
