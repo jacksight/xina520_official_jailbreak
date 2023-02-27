@@ -26,6 +26,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 19. [When installing XinaA15 through TrollStore, the error "Install Error 173" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-173-pops-up)
 20. [Installing a tweak on Sileo I get the error "An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-a-tweak-on-sileo-i-get-the-error-an-unknown-error-occured-problem-with-varlistsunclutteranamygay)
 21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
+22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
@@ -76,8 +77,8 @@ Unsure for what the reason for this is, however the fix is quite simple.
 - **Install Sileo: Xina Beta** from [here](https://github.com/Sileo/Sileo/releases)
 
 # Using Sileo: Xina Beta 4 (or higher), why can't I get the Filza dependencies from the Procursus repo?
+In the new versions of Sileo: Xina, they disabled installing or removing packages from the Proscurus repo, and they have removed the Proscurus repo.
 - **Please install the Filza File Manager IPA from here:** [TIGI Software Website](https://www.tigisoftware.com/default/?p=439)
-- **Please install the Filza File Manager dependencies from this repo:** [RepoUnclutter Repo](https://unclutter.anamy.gay)
 
 # TrollStore downgraded to 1.3.5, what do I do?
 - **Update TrollStore through the app:** Open TrollStore → Tap "Update TrollStore to x.x.x"
@@ -114,3 +115,7 @@ When you have the `unclutter.anamy.gay` repo, have something installed from it, 
 # Turning off my phone after rejailbreaking makes my phone go black!
 For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go to turn off your phone right after, the screen goes black. Follow the fix below.
 - **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Rejailbreak
+
+# The v1.1.7.1 XinaA15 app states that ["your jailbreak enironment is lower than the latest version 1.1.7"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
+This happens whne you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
+- **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
