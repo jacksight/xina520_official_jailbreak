@@ -26,7 +26,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 19. [When installing XinaA15 through TrollStore, the error "Install Error 173" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-173-pops-up)
 20. [Installing a tweak on Sileo I get the error "An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-a-tweak-on-sileo-i-get-the-error-an-unknown-error-occured-problem-with-varlistsunclutteranamygay)
 21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
-22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/edit/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
+22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
