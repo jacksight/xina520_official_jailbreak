@@ -16,7 +16,10 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **5.** Tap **`OpenJailbreak`** to start the jailbreak process. This should only take about 1 to 2 minutes.
 
-**6.** Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak status...`** in the console window, or check if `OpenJailbreak` says `Re-Jailbreak`. If it doesn't, try again, it may take a second try.
+**6.** Your device will either reboot or ldrestart, re-open the XinaA15 app and check if it states:
+- `Currently in jailbreak state....` in the console window/log.
+- `Re-jailbreak` in the jailbreak button on the bottom of the app.
+- **If it doesn't state either of that:** Tap `OpenJailbreak` again and then check back on the app.
 
 **7.** Afterwards, make sure to install the latest Sileo: Xina IPA through TrollStore from here: [Sileo: Xina IPA](https://github.com/Sileo/Sileo/releases)
 
