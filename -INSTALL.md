@@ -26,7 +26,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 These are extra things that should be done after jailbreaking with XinaA15. Doing these things will either improve your experience with XinaA15, or help prevent issues.
 
 **Do NOT update any of the 30+ packages in Sileo.**
-When using XinaA15, it is recommmended to NOT update any of the packages in Sileo. This specifically goes for every XinaA15 version that is `1.1.5` or higher.
+Updating all of the XinaA15 packages will break XinaA15 from installing or doing anything, and will require a reinstallation of the jailbreak environment.
 
 **ADD THE** [**`apt.xina.vip`**](https://apt.xina.vip) **REPO AND INSTALL:**
 - **RocketBootstrap** (1.1.0~libhooker2)
