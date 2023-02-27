@@ -5,7 +5,7 @@ If you have encountered any tweak issues or jailbreak issues in general, **pleas
 
 **2.** After your device has rebooted, open the XinaA15 app.
 
-**3.** From here, tap the `UnJailbreak` button.
+**3.** From here, tap the Gear icon (Settings) and tap `Unintall Xina Jailbreak`
 
 **4.** After tapping this, your phone should reboot and the jailbreak contents should be gone.
 
