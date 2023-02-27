@@ -117,5 +117,5 @@ For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go 
 - **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Rejailbreak
 
 # The v1.1.7.1 XinaA15 app states that ["your jailbreak enironment is lower than the latest version 1.1.7"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
-This happens whne you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
+This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
 - **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
