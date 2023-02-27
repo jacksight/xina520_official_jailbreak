@@ -14,7 +14,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **4.** After the installation has finished, check your home screen and open XinaA15.
 
-**5.** Tap **`openJailbreak`** to start the jailbreak process. This should only take about 1 to 2 minutes.
+**5.** Tap **`OpenJailbreak`** to start the jailbreak process. This should only take about 1 to 2 minutes.
 
 **6.** Your device will most likely reboot, you may want to check the XinaA15 app again to make sure it says **`Currently in jailbreak status`**. If it doesn't, try again, it may take a second try.
 
