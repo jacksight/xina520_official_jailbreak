@@ -114,7 +114,7 @@ When you have the `unclutter.anamy.gay` repo, have something installed from it, 
 
 # Turning off my phone after rejailbreaking makes my phone go black!
 For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go to turn off your phone right after, the screen goes black. Follow the fix below.
-- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Rejailbreak
+- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Tap `OpenJailbreak` to rejailbreak.
 
 # The v1.1.7.1 XinaA15 app states that ["your jailbreak enironment is lower than the latest version 1.1.7"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
 This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
