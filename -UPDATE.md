@@ -13,7 +13,7 @@
 
 **6.** In XinaA15 settings, enable: `Reinstall the jailbreak environment`
 
-**NOTE:** Enabling the option is required for a successful upgrade of a lower XinaA15 version.
+**NOTE:** Enabling the option is required for a successful upgrade from a lower XinaA15 version.
 
 **7.** After enabling this, tap `OpenJailbreak` to re-jailbreak.
 
