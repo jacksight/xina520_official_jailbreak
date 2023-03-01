@@ -11,7 +11,9 @@
 
 **5.** Once the IPA is installed, open the new XinaA15 app.
 
-**6.** In XinaA15 settings, enable: `Reinstall the jailbreak environment` **THIS IS NECESSARY.**
+**6.** In XinaA15 settings, enable: `Reinstall the jailbreak environment`
+
+**NOTE:** You are required to enable the option above in order to update successfully without issues.
 
 **7.** After enabling this, tap `OpenJailbreak` to re-jailbreak.
 
