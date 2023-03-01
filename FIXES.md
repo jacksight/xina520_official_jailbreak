@@ -28,6 +28,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
 22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
 23. [After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#after-installing-a-tweak-that-worked-on-a-previous-version-of-xinaa15-it-freezes-my-phone-after-using-it)
+24. [Tapping Rebuild Icon Cache in TrollStore deleted my jailbreak apps!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#tapping-rebuild-icon-cache-in-trollstore-deleted-my-jailbreak-apps)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
@@ -125,3 +126,8 @@ This happens when you're updating from versions lower than 1.1.7/latest, and bec
 This is a rare occurence that can happen with tweaks like BigSurCenter and CCSupport.
 - **Enable Safe Mode and Uninstall Your Tweak**: Reboot → Open XinaA15 → Tap `OpenJailbreak` → Tap `Cancel` to enter Safe Mode → Uninstall your tweak → Tap `ldrestart` in the XinaA15 app to exit out of safe mode.
 - **Reinstall the jailbreak environment**: Reboot → Open XinaA15 → Tap the gear icon (Settings) and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak` → Tap `OK` after it finished.
+
+# Tapping `Rebuild Icon Cache` in TrollStore deleted my jailbreak apps!
+This doesn't actually delete your apps, however it does make them disappear for a short period of time.
+- **Rebuild Icons in Saily**: Install & Open Saily → Tap the gear icon (Settings) → Scroll down and tap the arrow for `Rebuild Icons`
+- **Reinstall the Apps**: Open your package manager of choice → Find the missing apps → Reinstall the apps
