@@ -10,7 +10,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **Note:** If you are using TrollStore `v1.4.5` or lower: Open TrollStore → Go to Settings → Tap `Install Idid`
 
-**3.** Once XinaA15 is downloaded, open the IPA with TrollStore and install the XinaA15 app.
+**3.** After XinaA15 has downloaded, open the IPA with TrollStore and install the XinaA15 app.
 
 **4.** After the installation has finished, check your home screen and open XinaA15.
 
