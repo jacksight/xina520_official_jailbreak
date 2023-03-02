@@ -18,7 +18,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **6.** Your device will either reboot or ldrestart, re-open the XinaA15 app and check if it states:
 - `Currently in jailbreak status....` in the console window/log.
-- `Re-jailbreak` in the jailbreak button on the bottom of the app.
+- `Re-Jailbreak` in the jailbreak button on the bottom of the app.
 - **If it doesn't state either of that:** Repeat Step 5 and then re-open the app to check again.
 
 **7.** Once you've jailbroken, download & install Sileo: Xina through TrollStore from [here](https://github.com/Sileo/Sileo/releases).
