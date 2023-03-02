@@ -14,8 +14,9 @@ XinaA15 currently support (or include) many of the following:
 - Sileo, Saily, etc
 - Built-in SSH, Tweak injection, etc
 - libsubstitiute, libhooker, etc
-- Proscurus, BigBoss, and etc
-- and many more.
+- Decent-enough looking UI with options
+- Easy installation, removal, updating, etc
+- and much more.
 
 # **Supported development environments**
 
