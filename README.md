@@ -11,8 +11,8 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 
 **XinaA15 Guides:**
 - [XinaA15 Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
+- [XinaA15 Uninstallation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
 - [XinaA15 Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
-- [XinaA15 Removal Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
 
 # Need support for XinaA15?
 
