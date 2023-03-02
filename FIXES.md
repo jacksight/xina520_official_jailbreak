@@ -29,6 +29,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
 23. [After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#after-installing-a-tweak-that-worked-on-a-previous-version-of-xinaa15-it-freezes-my-phone-after-using-it)
 24. [Tapping Rebuild Icon Cache in TrollStore deleted my jailbreak apps!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#tapping-rebuild-icon-cache-in-trollstore-deleted-my-jailbreak-apps)
+25. [Installing XinaA15 v1.1.7.1 is all just gray and full of "Button"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-xinaa15-v1171-is-all-just-gray-and-full-of-button)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
@@ -131,3 +132,24 @@ This is a rare occurence that can happen with tweaks like BigSurCenter and CCSup
 This doesn't actually delete your apps, however it does make them disappear for a short period of time.
 - **Rebuild Icons in Saily**: Install & Open Saily → Tap the gear icon (Settings) → Scroll down and tap the arrow for `Rebuild Icons`
 - **Reinstall the Apps**: Open your package manager of choice → Find the missing apps → Reinstall the apps
+
+# Installing XinaA15 v1.1.7.1 is all just [gray and full of "Button"](https://user-images.githubusercontent.com/73033672/222571264-2c262959-96a1-4c21-8373-83ba4b8d1104.png)
+This is because the unicode bugged out when trying to read Chinese file names. 
+- **Reinstall the XinaA15 App:** Open TrollStore → Tap XinaA15 → Tap "Uninstall App" and "Uninstall" → Re-download the XinaA15 IPA → Re-install XinaA15.
+- **Rename The Files back to Normal:** 
+1. Download & Install Filza (TrollStore or Tweak) 
+2. Navigate to `/var/containers/Bundle/Application/XinaA15/XinaA12.app/Base.Iproj` 
+3. Rename the files back using the list below and this [Reference Picture](https://user-images.githubusercontent.com/73033672/222572362-d28accb9-c2b5-4861-bec3-cb612917c1bb.jpeg)
+
+```
+Settings Icon #1: 按钮1.png
+Ldrestart: 重启.png
+Respring: 注销.png
+Process Viewer: terminal.png
+Top (Header): 顶部.png
+LinTui: 临退.png
+Settings Icon #2: 按钮.png
+Settings Background: 背景1.png
+Homescreen Background: 背景.png
+```
+4. After renaming them all, fully close XinaA15 and then re-open it.
