@@ -137,7 +137,7 @@ This doesn't actually delete your apps, however it does make them disappear for 
 This is because the unicode bugged out when trying to read Chinese file names. 
 - **Reinstall the XinaA15 App:** Open TrollStore → Tap XinaA15 → Tap "Uninstall App" and "Uninstall" → Re-download the XinaA15 IPA → Re-install XinaA15.
 - **Rename The Files back to Normal:** 
-1. Download & Install Filza (TrollStore or Tweak) 
+1. Download & Install Filza File Manager (TrollStore or Tweak Version)
 2. Navigate to `/var/containers/Bundle/Application/XinaA15/XinaA12.app/Base.Iproj` 
 3. Rename the files back using the list below and this [Reference Picture](https://user-images.githubusercontent.com/73033672/222572362-d28accb9-c2b5-4861-bec3-cb612917c1bb.jpeg)
 
