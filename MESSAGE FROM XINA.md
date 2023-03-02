@@ -75,6 +75,22 @@ jailbreak_ safe (non ending) function can be started again without exploiting vu
 
 jailbreakd (cannot be ended) Function signature and all signing permission related operations
 
+# SSH information for XinaA15 devices
+In XinaA15, we support connecting to your phone with SSH as long as you're jailbroken! Below is how to connect through SSH or reset your SSH password.
+
+## How to SSH connect to your XinaA15 device:
+**1.** Configure the SSH to be connected to the port: `22` (this should be 22 by default)
+
+**2.** If asked for a SSH password, input the default password: `alpine`
+
+**3.** After that, input: `ssh root@(your local device IP)`
+
+## How to reset your SSH password temporarily
+
+**1.** Input the following command and press enter: `ssh-copy-id -i $HOME/.ssh/id_ rsa` 
+
+**2.** After that, input: `ssh root@(your local device IP)`
+
 # **Extra**
 
 If your storage in iCloud is full, the app signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
