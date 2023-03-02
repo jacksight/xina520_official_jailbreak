@@ -3,7 +3,7 @@ This version compatibility list will most likely not be changed any time soon an
 
 Until Xina520 releases an update that adds more compatibility for more devices or iOS versions, this list will not be updated.
 
-# SUPPORTED iOS VERSIONS:
+# SUPPORTED VERSIONS:
 **Any A12+ device running the following iOS versions:**
 - iOS 15.0
 - iOS 15.0.1
