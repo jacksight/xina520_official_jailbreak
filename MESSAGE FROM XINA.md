@@ -75,7 +75,7 @@ jailbreak_ safe (non ending) function can be started again without exploiting vu
 
 jailbreakd (cannot be ended) Function signature and all signing permission related operations
 
-# SSH information for XinaA15 devices
+# SSH on XinaA15
 In XinaA15, we support connecting to your phone with SSH as long as you're jailbroken! Below is how to connect through SSH or reset your SSH password.
 
 ## How to SSH connect to your XinaA15 device:
