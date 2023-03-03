@@ -82,7 +82,7 @@ In XinaA15, we support connecting to your phone with SSH as long as you're jailb
 ## How to SSH connect to your XinaA15 device:
 **1.** Configure the SSH to be connected to the port: `22` (this should be 22 by default)
 
-**2.** After that, input: `ssh root@(your local device IP)` (example: `ssh root@(192.168.1.2)`)
+**2.** After that, input: `ssh root@(your local device IP)` (example: `ssh root@192.168.1.2`)
 
 **3.** If asked for a SSH password, input the default password: `alpine`
 
@@ -90,7 +90,7 @@ In XinaA15, we support connecting to your phone with SSH as long as you're jailb
 
 **1.** Input the following command and press enter: `ssh-copy-id -i $HOME/.ssh/id_ rsa` 
 
-**2.** After that, input: `ssh root@(your local device IP)` (example: `ssh root@(192.168.1.2)`)
+**2.** After that, input: `ssh root@(your local device IP)` (example: `ssh root@192.168.1.2`)
 
 # **Extra**
 
