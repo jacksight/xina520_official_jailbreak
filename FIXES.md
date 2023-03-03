@@ -27,6 +27,9 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 20. [Installing a tweak on Sileo I get the error "An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-a-tweak-on-sileo-i-get-the-error-an-unknown-error-occured-problem-with-varlistsunclutteranamygay)
 21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
 22. [The v1.1.7.1 XinaA15 app states that "your jailbreak enironment is lower than the latest version 1.1.7"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-v1171-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version-117)
+23. [After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#after-installing-a-tweak-that-worked-on-a-previous-version-of-xinaa15-it-freezes-my-phone-after-using-it)
+24. [Tapping Rebuild Icon Cache in TrollStore deleted my jailbreak apps!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#tapping-rebuild-icon-cache-in-trollstore-deleted-my-jailbreak-apps)
+25. [Installing XinaA15 v1.1.7.1 is all just gray and full of "Button"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-xinaa15-v1171-is-all-just-gray-and-full-of-button)
 
 # What tweaks are compatible with XinaA15?
 There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks (like XinaA15), however there is a tweak compatibility list that is made by the Xina Community.
@@ -38,19 +41,19 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 - **Incompatible**: Open Sileo (or Saily) → Check the tweak's depiction/changelogs → Make sure it supports iOS 15 & XinaA15 
 
 # What can I do if Sileo won't open?
-- **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `openJailbreak`
+- **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `OpenJailbreak`
 - **Try reinstalling Sileo**: Download Sileo x Xina from [here](https://github.com/Sileo/Sileo/releases)
 
 # What can I do if the jailbreak is broken?
-- **Try reinstalling the jailbreak environment**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak`
+- **Try reinstalling the jailbreak environment**: Reboot → Open XinaA15 → Go into Settings and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak`
 
 # Why does XinaA15 keep respringing randomly?
 - **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
-- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `openJailbreak` → Wait till it says "Done." → Tap `ldrestart`
+- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `OpenJailbreak` → Wait till it says "Done." → Tap `Ldrestart`
 
 # Why does XinaA15 keep rebooting randomly?
 This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, however you can still try the fixes below.
-- **Update** to XinaA15 `1.1.6.2`
+- **Update** to XinaA15 `1.1.6.2` or later.
 - **Remove recently installed tweaks:** Open Sileo (or Saily) → Go to the "installed" section → Uninstall any tweaks you just or recently installed.
 
 # Why does XinaA15 respring & show colored Chinese text at the top?
@@ -58,9 +61,9 @@ This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, 
 - **If it goes back to safe mode**: Open Sileo → Uninstall any tweaks you've recently installed.
 
 # Why does XinaA15 break rotation on my device?
-Main cause(s) of this could be because: You used ldrestart, XinaA15 automatically did a ldrestart, or you need to update XinaA15.
+Main cause(s) of this could be because: You used Ldrestart, XinaA15 automatically did a Ldrestart, or you need to update XinaA15.
 - **Update XinaA15:** Foloow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
-- **Try rebooting:** Restart your phone → Open XinaA15 → Rejailbreak
+- **Try rebooting:** Restart your phone → Open XinaA15 → Tap `OpenJailbreak` to re-jailbreak.
 - **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
 # Why does XinaA15 get stuck when jailbreaking?
@@ -85,8 +88,8 @@ In the new versions of Sileo: Xina, they disabled installing or removing package
 - **Update TrollStore through the .tar** files [here](https://github.com/opa334/TrollStore/releases)
 
 # Using XinaA15 1.1.5 (or higher), the 35 packages won't all update, what do I do?
-- **Don't update any of those packages** when using version `1.1.5` or higher.
-- **If you upgraded some of them already, fix that by**: Reboot → Open XinaA15 → Enable `Reinstall the jailbreak environment` → Tap `openJailbreak` 
+Don't update any of those packages when using version `1.1.5` or higher, this will break the jailbreak.
+- **If you upgraded some of them already**: Reboot → Open XinaA15 → Go into Settings and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak` 
 
 # When adding repos, errors: "Could not find release file", "Didn't find architecture" appear.
 - **Use a different repo**/use the .deb of the tweak
@@ -114,8 +117,39 @@ When you have the `unclutter.anamy.gay` repo, have something installed from it, 
 
 # Turning off my phone after rejailbreaking makes my phone go black!
 For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go to turn off your phone right after, the screen goes black. Follow the fix below.
-- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Rejailbreak
+- **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Tap `OpenJailbreak` to rejailbreak.
 
 # The v1.1.7.1 XinaA15 app states that ["your jailbreak enironment is lower than the latest version 1.1.7"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
-This happens whne you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
+This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
 - **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
+
+# After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!
+This is a rare occurence that can happen with tweaks like BigSurCenter and CCSupport.
+- **Enable Safe Mode and Uninstall Your Tweak**: Reboot → Open XinaA15 → Tap `OpenJailbreak` → Tap `Cancel` to enter Safe Mode → Uninstall your tweak → Tap `ldrestart` in the XinaA15 app to exit out of safe mode.
+- **Reinstall the jailbreak environment**: Reboot → Open XinaA15 → Tap the gear icon (Settings) and enable `Reinstall the jailbreak environment` → Tap `OpenJailbreak` → Tap `OK` after it finished.
+
+# Tapping `Rebuild Icon Cache` in TrollStore deleted my jailbreak apps!
+This doesn't actually delete your apps, however it does make them disappear for a short period of time.
+- **Rebuild Icons in Saily**: Install & Open Saily → Tap the gear icon (Settings) → Scroll down and tap the arrow for `Rebuild Icons`
+- **Reinstall the Apps**: Open your package manager of choice → Find the missing apps → Reinstall the apps
+
+# Installing XinaA15 v1.1.7.1 is all just [gray and full of "Button"](https://user-images.githubusercontent.com/73033672/222571264-2c262959-96a1-4c21-8373-83ba4b8d1104.png)
+This is because the unicode bugged out when trying to read Chinese file names. 
+- **Reinstall the XinaA15 App:** Open TrollStore → Tap XinaA15 → Tap "Uninstall App" and "Uninstall" → Re-download the XinaA15 IPA → Re-install XinaA15.
+- **Rename The Files back to Normal:** 
+1. Download & Install Filza File Manager (TrollStore or Tweak Version)
+2. Navigate to `/var/containers/Bundle/Application/XinaA15/XinaA12.app/Base.Iproj` 
+3. Rename the files back using the list below and this [Reference Picture](https://user-images.githubusercontent.com/73033672/222572362-d28accb9-c2b5-4861-bec3-cb612917c1bb.jpeg)
+
+```
+Settings Icon #1: 按钮1.png
+Ldrestart: 重启.png
+Respring: 注销.png
+Process Viewer: terminal.png
+Top (Header): 顶部.png
+LinTui: 临退.png
+Settings Icon #2: 按钮.png
+Settings Background: 背景1.png
+Homescreen Background: 背景.png
+```
+4. After renaming them all, fully close XinaA15 and then re-open it.

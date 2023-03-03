@@ -1,9 +1,11 @@
 # QUICK NOTE:
-**Xina520 is not responsible if you encounter any damages on your device.**
+**Xina520 is & will not be responsible for any problems you encounter on your device while using XinaA15.**
 
-If you choose to jailbreak your device using XinaA15, **YOU** are the person who is responsible for any damages that encounter on your device. This jailbreak is in public beta and is still in-development, if you wish to reduce the chances of damaging your device, then wait for a more stable release of XinaA15.
+If you choose to jailbreak your device using XinaA15, **YOU** are the person who is responsible for any damages that encounter on your device. 
 
-If you acknowledge that **YOU** are the person who is responsible with any damages that encounter on your device, then please read the precaution bellow.
+This jailbreak is in public beta and is still in-development. If you wish to reduce the chances of damaging your device, then wait for a more stable release of XinaA15.
+
+If you acknowledge that **YOU** are the person who is responsible with any damages that encounter on your device, then please read the precautions bellow.
 
 # AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
 If you don't check this, you are more likely to run into issues or even break your device.

@@ -5,13 +5,13 @@ If you have encountered any tweak issues or jailbreak issues in general, **pleas
 
 **2.** After your device has rebooted, open the XinaA15 app.
 
-**3.** From here, tap the `UnJailbreak` button.
+**3.** From here, tap the Gear icon (Settings) and tap `Unintall Xina Jailbreak`
 
 **4.** After tapping this, your phone should reboot and the jailbreak contents should be gone.
 
-**5.** Once the jailbreak is gone, open TrollStore, and uninstall the XinaA15 app there too.
+**5.** Once the jailbreak is gone, open TrollStore, tap XinaA15, and tap `Uninstall App`.
 
-**6.** After uninstalling XinaA15, everything should now be gone.
+**6.** After uninstalling the XinaA15 app, all related XinaA15 files should be gone.
 
 # TrollStore Uninstallation Guide
 **Pre-uninstall:** After uninstalling XinaA15, open TrollStore, the GTA Car Tracker app, or your persistence helper. **You only need to choose one.**
