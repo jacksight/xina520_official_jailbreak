@@ -52,20 +52,22 @@ During the compilation process, the console will display the current log. Please
 
 `make install`
 
-# **Jailbreak Directory**
+# **Jailbreak Directories**
+
+### Jailbreak Directory
 - /var/jb
 
 Ths is equivalent to root but just in `/var/jb`, as this directory supports external read/write permissions, which can be used for data for tweaks.
 
-# **Font Directory**
-- /var/jb/Library/Fonts
-
+### **Font Directory**
+- /var/jb/Library/Fonts 
+ 
 The fonts in this directory are changeable if requested by the user.
 
-# **Guardian Directory**
+### **Guardian Directory**
 - /var/jb/Library/LaunchDaemons
 
-# **For more directories, check here:**
+### **For more directories, check here:**
 - /var/jb/Library/
 
 # **About my daemons**

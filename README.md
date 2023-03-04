@@ -7,7 +7,6 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 **Important:**
 - [Device Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
 - [Precautions For XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
-- [Developer's Note](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 **XinaA15 Guides:**
 - [XinaA15 Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
@@ -25,5 +24,7 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 3. Create an issue on the XinaA15 GitHub:
 [Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
-# Screenshots of XinaA15: 1.1.7.1
-![FINAL](https://user-images.githubusercontent.com/73033672/222503060-7cffe919-794f-44e2-ac66-ee285b2cb245.PNG)
+# Screenshots of XinaA15: 1.1.7.2
+![IMG_MIX](https://user-images.githubusercontent.com/73033672/222864141-104f3436-df6a-445b-bfa2-54a7b88c7bba.PNG)
+
+
