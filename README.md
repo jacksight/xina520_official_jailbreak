@@ -25,5 +25,5 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 [Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
 # Screenshots of XinaA15: 1.1.7.2
-(https://user-images.githubusercontent.com/73033672/222864098-caea7a69-7f8a-40ce-8201-b743ff934a65.PNG)
+https://user-images.githubusercontent.com/73033672/222864098-caea7a69-7f8a-40ce-8201-b743ff934a65.PNG
 
