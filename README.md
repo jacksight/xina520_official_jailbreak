@@ -24,5 +24,6 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 3. Create an issue on the XinaA15 GitHub:
 [Redirect to GitHub issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
-# Screenshots of XinaA15: 1.1.7.1
-![FINAL](https://user-images.githubusercontent.com/73033672/222503060-7cffe919-794f-44e2-ac66-ee285b2cb245.PNG)
+# Screenshots of XinaA15: 1.1.7.2
+(https://user-images.githubusercontent.com/73033672/222864098-caea7a69-7f8a-40ce-8201-b743ff934a65.PNG)
+
