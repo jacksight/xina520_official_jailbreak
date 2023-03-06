@@ -6,7 +6,7 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 # Please make sure to read the following files:
 **Important:**
 - [Device Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
-- [Precautions For XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
+- [Precautions for XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
 
 **XinaA15 Guides:**
 - [Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
