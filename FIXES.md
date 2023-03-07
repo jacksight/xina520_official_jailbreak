@@ -26,7 +26,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 19. [When installing XinaA15 through TrollStore, the error "Install Error 173" pops up.](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#when-installing-xinaa15-through-trollstore-the-error-install-error-173-pops-up)
 20. [Installing a tweak on Sileo I get the error "An unknown error occured... Problem with /var/.../lists/unclutter.anamy.gay"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-a-tweak-on-sileo-i-get-the-error-an-unknown-error-occured-problem-with-varlistsunclutteranamygay)
 21. [Turning off my phone after rejailbreaking makes my phone go black!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#turning-off-my-phone-after-rejailbreaking-makes-my-phone-go-black)
-22. [The latest XinaA15 app states that "your jailbreak enironment is lower than the latest"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-latest-xinaa15-app-states-that-your-jailbreak-enironment-is-lower-than-the-latest-version)
+22. [The latest XinaA15 app states that "your jailbreak enivronment is lower than the latest"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#the-latest-xinaa15-app-states-that-your-jailbreak-environment-is-lower-than-the-latest-version)
 23. [After installing a tweak that worked on a previous version of XinaA15, it freezes my phone after using it!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#after-installing-a-tweak-that-worked-on-a-previous-version-of-xinaa15-it-freezes-my-phone-after-using-it)
 24. [Tapping Rebuild Icon Cache in TrollStore deleted my jailbreak apps!](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#tapping-rebuild-icon-cache-in-trollstore-deleted-my-jailbreak-apps)
 25. [Installing XinaA15 v1.1.7.1 is all just gray and full of "Button"](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#installing-xinaa15-v1171-is-all-just-gray-and-full-of-button)
@@ -119,7 +119,7 @@ When you have the `unclutter.anamy.gay` repo, have something installed from it, 
 For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go to turn off your phone right after, the screen goes black. Follow the fix below.
 - **Force reboot your phone:** [Redirect to Apple's Guide](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6) → Open the XinaA15 app → Tap `OpenJailbreak` to rejailbreak.
 
-# The latest XinaA15 app states that ["your jailbreak enironment is lower than the latest version"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
+# The latest XinaA15 app states that ["your jailbreak environment is lower than the latest version"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
 This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
 - **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
 
