@@ -27,4 +27,4 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 # Screenshots of XinaA15: 1.1.7.2
 ![IMG_MIX](https://user-images.githubusercontent.com/73033672/223516921-ed30e194-4b02-4cb8-95ba-eaf7905812b2.png)
 ***
-###### Want more info about XinaA15? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki).
+###### Want a better looking guide with more info? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki)!
