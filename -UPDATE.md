@@ -1,11 +1,11 @@
 # XinaA15 Update Guide
 When updating XinaA15, there will be drawbacks as listed below. Make sure to back them up before proceeding.
 
-**You will lose:**
+> **The following will be uninstalled:**
 > - Tweaks & Themes
 > - Repos
 
-**You will keep:**
+> **The following will be kept:**
 > - Tweak Preferences
 > - `/var/jb` Files
 
