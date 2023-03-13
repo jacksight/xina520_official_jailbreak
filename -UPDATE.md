@@ -1,5 +1,15 @@
 # XinaA15 Update Guide
-**PLEASE ACKNOWLEDGE**: This **WILL** delete all of your tweaks and repos. Your tweak preferences will be kept, but please make sure to backup all of the tweaks you have installed, and all of the repos you have added.
+When updating XinaA15, there will be drawbacks as listed below. Make sure to back them up before proceeding.
+
+**You will lose:**
+> - Tweaks & Themes
+> - Repos
+
+**You will keep:**
+> - Tweak Preferences
+> - `/var/jb` Files
+
+# Update Steps
 
 **1.** Reboot your device, either by using the `Power Off` button or [force restarting](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios).
 
