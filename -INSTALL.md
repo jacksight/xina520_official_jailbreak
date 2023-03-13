@@ -28,7 +28,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 Updating all of the XinaA15 packages will break XinaA15 from installing or doing anything, and will require a reinstallation of the jailbreak environment.
 
 **ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
-- **RocketBootstrap** (1.1.0~libhooker2)
+- **RocketBootstrap** (1.0.10~beta2)
 
 **ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
 - **PreferenceLoader** (1.0.16)
