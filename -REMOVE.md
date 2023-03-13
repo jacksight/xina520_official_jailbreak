@@ -1,9 +1,10 @@
 # XinaA15 Uninstallation Guide
 If you want to fully remove XinaA15, please follow the guide below.
-> This will delete everything related to XinaA15. This will include:
+> **All of the following (and more) will be removed:**
 > - Tweaks & Themes
 > - Tweak Preferences
-> - XinaA15 Files
+> - Package Manager Repos
+> - XinaA15 Files in `/var/jb`
 
 # Uninstall Steps
 
