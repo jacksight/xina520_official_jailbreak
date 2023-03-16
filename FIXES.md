@@ -58,7 +58,7 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 ### Why does XinaA15 keep respringing randomly?
 - **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
-- **Try fixing the **: Open XinaA15 → Go into Settings → Tap `Fixdylib` → Wait till it says "Tips: Repair of dylib completed!"
+- **Try fixing the dylib**: Open XinaA15 → Go into Settings → Tap `Fixdylib` → Wait till it says "Tips: Repair of dylib completed!"
 
 ***
 
