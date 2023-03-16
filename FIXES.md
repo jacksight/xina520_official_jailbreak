@@ -1,8 +1,8 @@
+###### If you want a better list of Fixes, go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
 # Fixes for XinaA15
 XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
 
 If the fixes do not work, ask for support in the [XinaA15 Support Server](https://discord.gg/xina-a15) or report issues to the [GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues). <br> 
-###### If you want a better list of Fixes, go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
 
 # Table of Contents
 Upon clicking on any of the table of contents, look at the top of your screen to find the fix.
