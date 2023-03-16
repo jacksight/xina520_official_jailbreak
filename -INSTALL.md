@@ -34,3 +34,6 @@ Updating all of the XinaA15 packages will break XinaA15 from installing or doing
 
 **ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
 - **PreferenceLoader** (1.0.16)
+
+***
+###### Want a better installation guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Installation)!
