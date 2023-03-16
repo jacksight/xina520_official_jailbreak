@@ -58,7 +58,7 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 ### Why does XinaA15 keep respringing randomly?
 - **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
-- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `OpenJailbreak` → Wait till it says "Done." → Tap `Ldrestart`
+- **Try fixing the **: Open XinaA15 → Go into Settings → Tap `Fixdylib` → Wait till it says "Tips: Repair of dylib completed!"
 
 ***
 
@@ -77,7 +77,7 @@ This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, 
 
 ### Why does XinaA15 break rotation on my device?
 Main cause(s) of this could be because: You used Ldrestart, XinaA15 automatically did a Ldrestart, or you need to update XinaA15.
-- **Update XinaA15:** Foloow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
+- **Update XinaA15:** Follow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
 - **Try rebooting:** Restart your phone → Open XinaA15 → Tap `OpenJailbreak` to re-jailbreak.
 - **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
