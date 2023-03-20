@@ -28,3 +28,5 @@ When updating XinaA15, there will be drawbacks as listed below. Make sure to bac
 **7.** After enabling this, tap `OpenJailbreak` to re-jailbreak.
 
 **8.** Once your device has rebooted, XinaA15 should now be updated. 
+***
+###### Want a better update guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Updating)!
