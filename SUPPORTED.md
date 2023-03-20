@@ -47,3 +47,5 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 - iPad Pro 12.9in 3rd Generation [**(A12X)**](https://en.wikipedia.org/wiki/Apple_A12X)
 - iPad Pro 12.9in 4th generation [**(A12Z)**](https://en.wikipedia.org/wiki/Apple_A12Z)
 - iPad Pro 12.9in 5th Generation [**(M1)**](https://en.wikipedia.org/wiki/Apple_M1)
+***
+###### Want a better supported list? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)!
