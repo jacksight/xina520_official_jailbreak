@@ -28,3 +28,5 @@ Not only that, but this is a **rootless jailbreak.** Due to the rootless nature 
 - [**Do not install any dangerous tweaks.**](https://user-images.githubusercontent.com/73033672/211621673-bdaaec4b-9b8e-43e2-8d00-0c2fec1c962c.png) → Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
 
 All in all, **just use your common sense.**
+***
+###### Want a better list of warnings? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)!
