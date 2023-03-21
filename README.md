@@ -5,23 +5,23 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 
 # Please make sure to read the following files:
 **Important:**
-- [Device Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
-- [Precautions for XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
+- [Device Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
+- [Precautions for XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 
 **XinaA15 Guides:**
-- [Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md) | -INSTALL.md
-- [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md) | -REMOVE.md
-- [Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md) | -UPDATE.md
+- [Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md)
+- [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
+- [Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
 
 # Need support for XinaA15?
 
-1. Join the XinaA15 Discord Server:<br>
+**1. Join the XinaA15 Discord Server:<br>**
 [Discord Server Invite](https://discord.gg/xina-a15)
 
-2. Read how to fix XinaA15 issues here:<br>
+**2. Read how to fix XinaA15 issues here:<br>**
 [Detailed List of Fixes](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
 
-3. Create an issue on the XinaA15 GitHub:<br>
+**3. Create an issue on the XinaA15 GitHub:<br>**
 [XinaA15 GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
 # Screenshots of XinaA15: 1.1.8
