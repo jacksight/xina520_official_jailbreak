@@ -3,7 +3,7 @@ XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made wit
 
 Please be warned however, XinaA15 is a **in-development jailbreak** that is currently in **public beta**. If you encounter any issues or problems with the jailbreak, then please: **Uninstall the jailbreak and use it when it's more stable.**
 
-# Start Here:
+# Begin Here:
 **Important:**
 - [Device Compatibility List](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
 - [Warnings for XinaA15](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
@@ -13,15 +13,15 @@ Please be warned however, XinaA15 is a **in-development jailbreak** that is curr
 - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
 - [Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
 
-# Need Help?
+# Need help?
 
-**1. Join the XinaA15 Discord Server:<br>**
+- **Join the XinaA15 Discord Server:<br>**
 [Discord Server Invite](https://discord.gg/xina-a15)
 
-**2. Read how to fix XinaA15 issues here:<br>**
+- **Read how to fix XinaA15 issues here:<br>**
 [Detailed List of Fixes](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
 
-**3. Create an issue on the XinaA15 GitHub:<br>**
+- **Create an issue on the XinaA15 GitHub:<br>**
 [XinaA15 GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
 # Screenshots of XinaA15: 1.1.8
