@@ -52,6 +52,7 @@ During the compilation process, the console will display the current log. Please
 `make uninstall`
 
 `make install`
+***
 ### **Development Daemons**
 
 - `launchdhook` → (can't be ended) function hook launch
