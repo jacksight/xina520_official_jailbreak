@@ -3,7 +3,7 @@ XinaA15 is a **semi-untethered jailbreak** made for **A12+ devices** running **i
 
 Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & **in-development jailbreak**. Any issues that you encounter are **your fault and responsibility.**
 
- # Begin Here:
+ # Start Here:
  **Important:**
  - [Device Compatibility List](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
  - [Warnings for XinaA15](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
