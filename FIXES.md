@@ -42,7 +42,7 @@ There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks 
 
 ### Why are my tweaks not working or taking effect?
 This is either a case of an incompatible tweak or you haven't respringed your device yet.
-- **Respring**: Open XinaA15 → Tap "Respring"
+- **Respring**: Open XinaA15 → Tap `Respring`
 - **Incompatible**: Open Sileo (or Saily) → Check the tweak's depiction/changelogs → Make sure it supports iOS 15 & XinaA15 
 
 ***
@@ -60,7 +60,7 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 ### Why does XinaA15 keep respringing randomly?
 - **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
-- **Try fixing the dylib**: Open XinaA15 → Go into Settings → Tap `Fixdylib` → Wait till it says "Tips: Repair of dylib completed!"
+- **Try fixing the dylib**: Open XinaA15 → Go into Settings → Tap `Fixdylib` → Wait till it says `Tips: Repair of dylib completed!`
 
 ***
 
@@ -111,7 +111,7 @@ In the new versions of Sileo: Xina, they disabled installing or removing package
 ***
 
 ### TrollStore downgraded to 1.3.5, what do I do?
-- **Update TrollStore through the app:** Open TrollStore → Tap "Update TrollStore to x.x.x"
+- **Update TrollStore through the app:** Open TrollStore → Tap `Update TrollStore to x.x.x`
 - **Update TrollStore through the .tar** files [here](https://github.com/opa334/TrollStore/releases)
 
 ***
@@ -148,7 +148,7 @@ Don't update any of those packages when using version `1.1.5` or higher, this wi
 ### When installing XinaA15 through TrollStore, the error ["Install Error 173"](https://user-images.githubusercontent.com/73033672/216380882-1e6dc245-65f1-42ed-b1e1-18a55e624aa9.png) pops up.
 You are currently missing Idid on TrollStore, this can be simply installed however.
 - **Install TrollStore `1.5.0`** or later from [here](https://github.com/opa334/TrollStore/releases)
-- **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap "Install Idid"
+- **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap `Install Idid`
 
 ***
 
@@ -166,7 +166,7 @@ For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go 
 
 ### The latest XinaA15 app states that ["your jailbreak environment is lower than the latest version"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
 This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
-- **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
+- **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap `OpenJailbreak`
 
 ***
 
