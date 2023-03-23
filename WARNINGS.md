@@ -1,13 +1,12 @@
 ###### Require a better list of warnings? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)!
 ***
 # QUICK NOTE:
-**Xina520 is & will not be responsible for any problems you encounter on your device while using XinaA15.**
 
-If you choose to jailbreak your device using XinaA15, **YOU** are the person who is responsible for any damages that encounter on your device. 
+Upon use of XinaA15: **Any damages or issues that you encounter on your device are your fault and resonsbility.**
 
-This jailbreak is in public beta and is still in-development. If you wish to reduce the chances of damaging your device, then wait for a more stable release of XinaA15.
+When jailbreaking with XinaA15, you acknowledge that: **this jailbreak is in public beta & development.**
 
-If you acknowledge that **YOU** are the person who is responsible with any damages that encounter on your device, then please read the precautions bellow.
+If you acknowledge that all damages or issues are **YOUR FAULT & RESPONSIBILITY**, please continue reading below.
 
 # AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
 If you don't check this, you are more likely to run into issues or even break your device.
@@ -20,13 +19,13 @@ This jailbreak is currently in its **public beta stage** and due to this you **W
 Not only that, but this is a **rootless jailbreak.** Due to the rootless nature of XinaA15, many tweaks will be unsupported and will need an update to support rootless & iOS 15. If you install an untrusted, ancient (not updated), unsupported, or root-only tweak, you may encounter any of the issues below.
 
 **Issues that COULD occur if used incorrectly:**
-- [**Device bootlooping**](https://ios.cfw.guide/troubleshooting/#bootloops) → A forever-booting Apple logo.
-- [**Respring looping**](https://ios.cfw.guide/troubleshooting/#respring-loops) → A forever-loading spring icon.
-- [**Corrupted data**](https://support.apple.com/en-us/HT204184) → Forever lost data, photos, documents, and more.
+- [**Device Bootlooping**](https://ios.cfw.guide/troubleshooting/#bootloops) → A forever-booting Apple logo.
+- [**Respring Looping**](https://ios.cfw.guide/troubleshooting/#respring-loops) → A forever-loading spring icon.
+- [**Corrupted Data**](https://support.apple.com/en-us/HT204184) → Forever lost data, photos, documents, and more.
+- [**Corrupted Jailbreak**](https://user-images.githubusercontent.com/73033672/222571264-2c262959-96a1-4c21-8373-83ba4b8d1104.png)→  Bad tweaks, upgraded packages, etc.
 
 **Please make sure to take the following precautions to prevent any damage on your iPhone device:**
 - [**Backup your device.**](https://support.apple.com/en-us/HT203977) → You can use iTunes on Windows or Finder on macOS to backup your phone.
 - [**Save blobs for your device.**](https://ios.cfw.guide/saving-blobs/) → Saving blobs will allow you to downgrade back to a iOS version when needed.
 - [**Do not install any dangerous tweaks.**](https://user-images.githubusercontent.com/73033672/211621673-bdaaec4b-9b8e-43e2-8d00-0c2fec1c962c.png) → Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
-
-All in all, **just use your common sense.**
+- [**Check the XinaA15 Tweak Compatibility List.**](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/htmlview) → With the rootless nature of XinaA15, it's always safe to check what tweaks are compatible.
