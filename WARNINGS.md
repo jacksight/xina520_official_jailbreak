@@ -26,6 +26,5 @@ Not only that, but this is a **rootless jailbreak.** Due to the rootless nature 
 
 **Please make sure to take the following precautions to prevent any damage on your iPhone device:**
 - [**Backup your device.**](https://support.apple.com/en-us/HT203977) → You can use iTunes on Windows or Finder on macOS to backup your phone.
-- [**Save blobs for your device.**](https://ios.cfw.guide/saving-blobs/) → Saving blobs will allow you to downgrade back to a iOS version when needed.
 - [**Do not install any dangerous tweaks.**](https://user-images.githubusercontent.com/73033672/211621673-bdaaec4b-9b8e-43e2-8d00-0c2fec1c962c.png) → Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
 - [**Check the XinaA15 Tweak Compatibility List.**](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/htmlview) → With the rootless nature of XinaA15, it's always safe to check what tweaks are compatible.
