@@ -61,4 +61,4 @@ If you want to fully remove XinaA15, please follow the guide below.
   
 4. After tapping one of them, TrollStore should be uninstalled.
 
-5. Re-open the Persistence Helper and tap `Unintall Persistence Helper` then tap `Continue`.</details>
+5. Re-open the Persistence Helper and tap `Uninstall Persistence Helper` then tap `Continue`.</details>
