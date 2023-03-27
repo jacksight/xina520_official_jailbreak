@@ -25,8 +25,40 @@ If you want to fully remove XinaA15, please follow the guide below.
 # TrollStore Uninstallation Guide
 **Pre-uninstall:** After uninstalling XinaA15, open TrollStore, the GTA Car Tracker app, or your persistence helper. **You only need to choose one.**
 
-● In TrollStore, tap Settings, scroll down, and tap `Uninstall TrollStore`, you may choose to Preserve or Uninstall your apps alongside TrollStore.
+<details><summary>Uninstalling through <b>TrollStore</b></a></summary>
 
-● In GTA Car Tracker, tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore.
+1. Tap Settings in TrollStore.
 
-● In your Persistence Helper (ex: Tips), tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore. **If you uninstall through the Persistence Helper, tap `Uninstall Persistence Helper` after uninstalling TrollStore.**
+2. Scroll down and tap `Uninstall TrollStore`
+
+3. Choose one of the options: <br>
+  → <b>Preserve all</b> of your apps and uninstall. <br>
+  → <b>Uninstall all</b> of your apps alongside TrollStore.
+
+4. After tapping one of them, TrollStore should be uninstalled.</details>
+
+<details><summary>Uninstalling through <b>GTA Car Tracker</b></a></summary>
+
+1. Open GTA Car Tracker
+
+2. Find and tap `Uninstall TrollStore`
+
+3. Choose one of the options: <br>
+  → <b>Preserve all</b> of your apps and uninstall. <br>
+  → <b>Uninstall all</b> of your apps alongside TrollStore.
+  
+4. After tapping one of them, TrollStore should be uninstalled.</details>
+
+<details><summary>Uninstalling through <b>Persistence Helper</b></a></summary>
+
+1. Open your Persistence Helper.
+
+2. Find and tap `Uninstall TrollStore`
+
+3. Choose one of the options: <br>
+  → <b>Preserve all</b> of your apps and uninstall. <br>
+  → <b>Uninstall all</b> of your apps alongside TrollStore.
+  
+4. After tapping one of them, TrollStore should be uninstalled.
+
+5. Re-open the Persistence Helper and tap `Unintall Persistence Helper` then tap `Continue`.</details>
