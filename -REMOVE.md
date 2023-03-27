@@ -2,10 +2,10 @@
 ***
 # XinaA15 Uninstallation Guide
 Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes:
-- Tweaks & Themes
-- Tweak Preferences
-- Package Manager Repos
-- XinaA15 Files in `/var/jb`
+> - Tweaks & Themes
+> - Tweak Preferences
+> - Package Manager Repos
+> - XinaA15 Files in `/var/jb`
 
 ## Uninstall Steps
 
