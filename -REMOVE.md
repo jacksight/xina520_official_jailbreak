@@ -1,12 +1,11 @@
 ###### Want a better uninstall guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)!
 ***
 # XinaA15 Uninstallation Guide
-If you want to fully remove XinaA15, please follow the guide below.
-> **All of the following (and more) will be removed:**
-> - Tweaks & Themes
-> - Tweak Preferences
-> - Package Manager Repos
-> - XinaA15 Files in `/var/jb`
+Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes:
+- Tweaks & Themes
+- Tweak Preferences
+- Package Manager Repos
+- XinaA15 Files in `/var/jb`
 
 ## Uninstall Steps
 
