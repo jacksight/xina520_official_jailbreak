@@ -7,7 +7,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 - [**List of Warnings**](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
 - [**XinaA15 Fixes**](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
 
-# Installation Steps
+## Installation Steps
 **1.** Start following the instructions to install TrollStore from [here](https://github.com/opa334/TrollStore/blob/main/install_trollhelperota_ios15.md).
 
 **2.** After installing TrollStore, download the latest XinaA15 app from [here](https://github.com/jacksight/xina520_official_jailbreak/releases).
@@ -27,9 +27,9 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **8.** After installing Sileo, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
 
-# Post-installation
-**Do NOT update any of the 30+ packages in Sileo.**
-Updating all of the XinaA15 packages will break XinaA15 from installing or doing anything, and will require a reinstallation of the jailbreak environment.
+## Post-Installation Recommendations
+**DO NOT UPDATE THE 35+ PACKAGES** <br>
+Sileo or Saily will ask you to update them. **DO NOT.** This breaks the jailbreak.
 
 **ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
 - **RocketBootstrap** (1.0.10~beta2)
