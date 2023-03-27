@@ -11,7 +11,7 @@ When updating XinaA15, there will be drawbacks as listed below. Make sure to bac
 > - Tweak Preferences
 > - `/var/jb` Files
 
-# Update Steps
+## Update Steps
 
 **1.** Reboot your device, either by using the `Power Off` button or [force restarting](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios).
 
