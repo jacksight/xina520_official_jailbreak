@@ -23,8 +23,9 @@ If you want to fully remove XinaA15, please follow the guide below.
 **6.** After uninstalling the XinaA15 app, all related XinaA15 files should be gone.
 
 ## TrollStore Uninstallation Guide
-**Pre-uninstall:** After uninstalling XinaA15, open TrollStore, the GTA Car Tracker app, or your persistence helper. **You only need to choose one.**
+Uninstalling TrollStore **is not recommend.** It's convenient and useful if you aren't just using it for XinaA15. Uninstalling it will remove everything related to XinaA15 however.
 
+**Only one method is required.**
 <details><summary>Uninstalling through <b>TrollStore</b></a></summary>
 
 1. Tap Settings in TrollStore.
