@@ -5,7 +5,7 @@ This version compatibility list will most likely not be changed any time soon an
 
 Until Xina520 releases an update that adds more compatibility for more devices or iOS versions, this list will not be updated.
 
-# SUPPORTED VERSIONS
+## SUPPORTED VERSIONS
 **Any A12+ device running the following iOS versions:**
 - [**iOS + iPadOS 15.0**](https://support.apple.com/en-us/HT212788#15) <br>
 
@@ -17,7 +17,7 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 
 - [**iOS + iPadOS 15.1.1**](https://support.apple.com/en-us/HT212788#1511) <br>
 
-# SUPPORTED DEVICES
+## SUPPORTED DEVICES
 **All devices running A12 up to the A15 or M1, or any of the devices listed:**
 #### iPhones
 - iPhone XS [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
