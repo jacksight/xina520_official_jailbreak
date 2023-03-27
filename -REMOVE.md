@@ -8,7 +8,7 @@ If you want to fully remove XinaA15, please follow the guide below.
 > - Package Manager Repos
 > - XinaA15 Files in `/var/jb`
 
-# Uninstall Steps
+## Uninstall Steps
 
 **1.** Reboot your device, either by using the `Power Off` button or [force restarting](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios).
 
@@ -22,7 +22,7 @@ If you want to fully remove XinaA15, please follow the guide below.
 
 **6.** After uninstalling the XinaA15 app, all related XinaA15 files should be gone.
 
-# TrollStore Uninstallation Guide
+## TrollStore Uninstallation Guide
 **Pre-uninstall:** After uninstalling XinaA15, open TrollStore, the GTA Car Tracker app, or your persistence helper. **You only need to choose one.**
 
 <details><summary>Uninstalling through <b>TrollStore</b></a></summary>
