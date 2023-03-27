@@ -3,9 +3,9 @@
 # XinaA15 Installation Guide
 XinaA15 is a jailbreak that is in-development and in public beta. **Please make sure to use this jailbreak with precaution.**
 
-- [**Compatibility List**](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
-- [**List of Warnings**](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
-- [**XinaA15 Fixes**](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md)
+- [**Compatibility List**](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
+- [**List of Warnings**](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
+- [**XinaA15 Fixes**](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
 
 # Installation Steps
 **1.** Start following the instructions to install TrollStore from [here](https://github.com/opa334/TrollStore/blob/main/install_trollhelperota_ios15.md).
