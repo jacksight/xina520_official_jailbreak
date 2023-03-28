@@ -29,9 +29,9 @@ Currently, the debug server fully supports the debugging of additional processes
 
 There's no need to change **theos** or anything else, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing else needs to be changed)
 
-- Full support for make install
-- Full support for make uninstall
-- Full support for make do
+- Full support for `make install`
+- Full support for `make uninstall`
+- Full support for `make do`
 ***
 ### Installing iOSOpenDev
 
@@ -63,20 +63,20 @@ During the compilation process, the console will display the current log. Please
 # **Development Directories**
 
 ### Jailbreak Directory
-- /var/jb
+- `/var/jb`
 
-Ths is equivalent to root but just in `/var/jb`, as this directory supports external read/write permissions, which can be used for data for tweaks.
+Ths is XinaA15's equivalent to root, however it's in `/var`, as this directory supports external read/write permissions, which can be used for data for tweaks.
 ***
 ### **Font Directory**
-- /var/jb/Library/Fonts 
+- `/var/jb/Library/Fonts`
  
 The fonts in this directory are changeable if requested by the user.
 ***
 ### **Guardian Directory**
-- /var/jb/Library/LaunchDaemons
+- `/var/jb/Library/LaunchDaemons`
 ***
 ### **For more directories, check here:**
-- /var/jb/Library/
+- `/var/jb/Library/`
 
 # SSH on XinaA15
 In XinaA15, we support connecting to your phone with SSH as long as you're jailbroken! Below is how to connect through SSH or reset your SSH password.
