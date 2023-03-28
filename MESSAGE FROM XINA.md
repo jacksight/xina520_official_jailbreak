@@ -25,6 +25,13 @@ XinaA15 is currently compatible with all of the development environments you cur
 
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
 ***
+### **Development Daemons**
+
+- `launchdhook` → (can't be ended) function hook launch
+- `jailbreak_safe` → (non ending) function can be started again without exploiting vulnerabilities
+- `jailbreakd` → (cannot be ended) Function signature and all signing permission related operations
+- `jailbreakd_cmd` → this was recently added and Xina520 has not reported on what it does.
+***
 ### Development Information
 
 There's no need to change **theos** or anything else, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing else needs to be changed)
@@ -52,13 +59,6 @@ During the compilation process, the console will display the current log. Please
 `make uninstall`
 
 `make install`
-***
-### **Development Daemons**
-
-- `launchdhook` → (can't be ended) function hook launch
-- `jailbreak_safe` → (non ending) function can be started again without exploiting vulnerabilities
-- `jailbreakd` → (cannot be ended) Function signature and all signing permission related operations
-- `jailbreakd_cmd` → this was recently added and Xina520 has not reported on what it does.
 
 # **Development Directories**
 
