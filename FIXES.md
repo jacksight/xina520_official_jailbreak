@@ -61,7 +61,7 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 ### Why did my tweaks disappear after a reboot?
 This is because XinaA15 is a **semi-untethered jailbreak.** You must rejailbreak to regain your tweaks.
-- **Rejailbreak:** Open XinaA15 → Tap `OpenJailbreak` → Press `OK` when `Process is about to be completed` pops up!
+- **Rejailbreak:** Open XinaA15 → Tap `OpenJailbreak` → Press `OK` when `Process is about to be completed` pops up. → Check Sileo.
 
 ***
 
