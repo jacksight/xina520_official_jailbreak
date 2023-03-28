@@ -9,9 +9,9 @@ If the fixes do not work, ask for support in the [XinaA15 Support Server](https:
 Upon clicking on any of the table of contents, look at the top of your screen to find the fix.
 - [What tweaks are compatible?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-tweaks-are-compatible-with-XinaA15)
 - [Why are my tweaks not working or taking effect?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-are-my-tweaks-not-working-or-taking-effect)
-- [Why did my tweaks disappear after a reboot?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-did-my-tweaks-disappear-after-a-reboot)
 - [What can I do if Sileo won't open?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-Sileo-wont-open)
 - [What can I do if the jailbreak is broken?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-the-jailbreak-is-broken)
+- [Why did my tweaks disappear after a reboot?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-did-my-tweaks-disappear-after-a-reboot)
 - [Why does XinaA15 keep respringing randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-keep-respringing-randomly)
 - [Why does XinaA15 keep rebooting randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-keep-rebooting-randomly)
 - [Why does XinaA15 respring & show colored Chinese text at the top?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-respring--show-colored-chinese-text-at-the-top)
