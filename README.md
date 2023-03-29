@@ -15,10 +15,10 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
 
  # Need help?
 
- - **Join the XinaA15 Discord Server:<br>**
+ - **Join the Support Server:<br>**
  [Discord Server Invite](https://discord.gg/xina-a15)
 
- - **Read how to fix XinaA15 issues here:<br>**
+ - **Try fixing your XinaA15 issues here:<br>**
  [Detailed List of Fixes](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
 
  - **Create an issue on the XinaA15 GitHub:<br>**
