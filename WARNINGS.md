@@ -14,9 +14,7 @@ Please check the [supported devices list](https://github.com/NotDarkn/XinaA15/bl
 
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 
-XinaA15 is currently in its **public beta stage** and due to this you **WILL** encounter issues at a certain point of time.
-
-XinaA15 is also a **rootless jailbreak.** Many tweaks will be unsupported and require an update to support rootless and iOS 15.
+XinaA15 is currently in its **public beta stage** and due to this you **WILL** encounter issues at a certain point of time. XinaA15 is also a **rootless jailbreak.** Many tweaks will be unsupported and require an update to support rootless and iOS 15.
 
 ### Encounterable Issues
 > These are worst case scenarios, however they **CAN** happen.
