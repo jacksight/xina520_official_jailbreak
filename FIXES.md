@@ -1,7 +1,9 @@
+###### Want a new and improved list of Fixes? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
+***
 # Fixes for XinaA15
 XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
 
-If the fixes do not work, ask for support in the [XinaA15 Support Server](https://discord.gg/xina-a15) or report issues to the [GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues).
+If the fixes do not work, ask for support in the [XinaA15 Support Server](https://discord.gg/xina-a15) or report issues to the [GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues). <br> 
 
 # Table of Contents
 Upon clicking on any of the table of contents, look at the top of your screen to find the fix.
@@ -9,6 +11,7 @@ Upon clicking on any of the table of contents, look at the top of your screen to
 - [Why are my tweaks not working or taking effect?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-are-my-tweaks-not-working-or-taking-effect)
 - [What can I do if Sileo won't open?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-Sileo-wont-open)
 - [What can I do if the jailbreak is broken?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#what-can-i-do-if-the-jailbreak-is-broken)
+- [Why did my tweaks disappear after a reboot?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-did-my-tweaks-disappear-after-a-reboot)
 - [Why does XinaA15 keep respringing randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-XinaA15-keep-respringing-randomly)
 - [Why does XinaA15 keep rebooting randomly?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-keep-rebooting-randomly)
 - [Why does XinaA15 respring & show colored Chinese text at the top?](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md#why-does-xinaa15-respring--show-colored-chinese-text-at-the-top)
@@ -40,7 +43,7 @@ There aren't many tweaks that are compatible with iOS 15 or rootless jailbreaks 
 
 ### Why are my tweaks not working or taking effect?
 This is either a case of an incompatible tweak or you haven't respringed your device yet.
-- **Respring**: Open XinaA15 → Tap "Respring"
+- **Respring**: Open XinaA15 → Tap `Respring`
 - **Incompatible**: Open Sileo (or Saily) → Check the tweak's depiction/changelogs → Make sure it supports iOS 15 & XinaA15 
 
 ***
@@ -56,9 +59,15 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 ***
 
+### Why did my tweaks disappear after a reboot?
+This is because XinaA15 is a **semi-untethered jailbreak.** You must rejailbreak to regain your tweaks.
+- **Rejailbreak:** Open XinaA15 → Tap `OpenJailbreak` → Press `OK` when `Process is about to be completed` pops up. → Check Sileo.
+
+***
+
 ### Why does XinaA15 keep respringing randomly?
 - **Try uninstalling any tweaks that you've recently installed**, or tweaks that are used 24/7.
-- **Try fixing the dylib**: Open XinaA15 → Enable "Fix Dylib" (it'll be blue) → Tap `OpenJailbreak` → Wait till it says "Done." → Tap `Ldrestart`
+- **Try fixing the dylib**: Open XinaA15 → Go into Settings → Tap `Fixdylib` → Wait till it says `Tips: Repair of dylib completed!`
 
 ***
 
@@ -77,7 +86,7 @@ This does not have a guaranteed fix as XinaA15 isn't the most stable jailbreak, 
 
 ### Why does XinaA15 break rotation on my device?
 Main cause(s) of this could be because: You used Ldrestart, XinaA15 automatically did a Ldrestart, or you need to update XinaA15.
-- **Update XinaA15:** Foloow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
+- **Update XinaA15:** Follow the update guide from [here](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
 - **Try rebooting:** Restart your phone → Open XinaA15 → Tap `OpenJailbreak` to re-jailbreak.
 - **If it's still broken, check the guide here**: [Issue #16](https://github.com/jacksight/xina520_official_jailbreak/issues/16)
 
@@ -109,7 +118,7 @@ In the new versions of Sileo: Xina, they disabled installing or removing package
 ***
 
 ### TrollStore downgraded to 1.3.5, what do I do?
-- **Update TrollStore through the app:** Open TrollStore → Tap "Update TrollStore to x.x.x"
+- **Update TrollStore through the app:** Open TrollStore → Tap `Update TrollStore to x.x.x`
 - **Update TrollStore through the .tar** files [here](https://github.com/opa334/TrollStore/releases)
 
 ***
@@ -146,7 +155,7 @@ Don't update any of those packages when using version `1.1.5` or higher, this wi
 ### When installing XinaA15 through TrollStore, the error ["Install Error 173"](https://user-images.githubusercontent.com/73033672/216380882-1e6dc245-65f1-42ed-b1e1-18a55e624aa9.png) pops up.
 You are currently missing Idid on TrollStore, this can be simply installed however.
 - **Install TrollStore `1.5.0`** or later from [here](https://github.com/opa334/TrollStore/releases)
-- **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap "Install Idid"
+- **Install Idid through TrollStore:** Open TrollStore → Tap Settings → Tap `Install Idid`
 
 ***
 
@@ -164,7 +173,7 @@ For some odd rare cases, if you rejailbreak your phone with XinaA15 and then go 
 
 ### The latest XinaA15 app states that ["your jailbreak environment is lower than the latest version"](https://user-images.githubusercontent.com/73033672/221590481-c5a0cf9a-6123-498c-b69c-35c8910e6528.PNG)
 This happens when you're updating from versions lower than 1.1.7/latest, and because of that it'll state that you need to reinstall the environment.
-- **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap "OpenJailbreak" or "Re-Jailbreak"
+- **Enable `Reinstall the jailbreak environment` and re-jailbreak**: Open XinaA15 → Tap the Gear icon (Settings) → Toggle `Reinstall the jailbreak environment` → Exit back to the main page → Tap `OpenJailbreak`
 
 ***
 

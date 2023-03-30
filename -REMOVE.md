@@ -1,11 +1,13 @@
+###### Want a better uninstall guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)!
+***
 # XinaA15 Uninstallation Guide
-If you want to fully remove XinaA15, please follow the guide below.
-> This will delete everything related to XinaA15. This will include:
+Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes:
 > - Tweaks & Themes
 > - Tweak Preferences
-> - XinaA15 Files
+> - Package Manager Repos
+> - XinaA15 Files in `/var/jb`
 
-# Uninstall Steps
+## Uninstall Steps
 
 **1.** Reboot your device, either by using the `Power Off` button or [force restarting](https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios).
 
@@ -19,11 +21,44 @@ If you want to fully remove XinaA15, please follow the guide below.
 
 **6.** After uninstalling the XinaA15 app, all related XinaA15 files should be gone.
 
-# TrollStore Uninstallation Guide
-**Pre-uninstall:** After uninstalling XinaA15, open TrollStore, the GTA Car Tracker app, or your persistence helper. **You only need to choose one.**
+## TrollStore Uninstallation Guide
+Uninstalling TrollStore **is not recommend.** It's convenient and useful if you aren't just using it for XinaA15. Uninstalling it will remove everything related to XinaA15 however.
 
-● In TrollStore, tap Settings, scroll down, and tap `Uninstall TrollStore`, you may choose to Preserve or Uninstall your apps alongside TrollStore.
+**Only one method is required.**
+<details><summary>Uninstalling through <b>TrollStore</b></a></summary>
 
-● In GTA Car Tracker, tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore.
+1. Tap Settings in TrollStore.
 
-● In your Persistence Helper (ex: Tips), tap `Uninstall TrollStore`, and you may Preserve or Uninstall your apps alongside TrollStore. **If you uninstall through the Persistence Helper, tap `Uninstall Persistence Helper` after uninstalling TrollStore.**
+2. Scroll down and tap `Uninstall TrollStore`
+
+3. Choose one of the options: <br>
+  → <b>Preserve all</b> of your apps and uninstall. <br>
+  → <b>Uninstall all</b> of your apps alongside TrollStore.
+
+4. After tapping one of them, TrollStore should be uninstalled.</details>
+
+<details><summary>Uninstalling through <b>GTA Car Tracker</b></a></summary>
+
+1. Open GTA Car Tracker
+
+2. Find and tap `Uninstall TrollStore`
+
+3. Choose one of the options: <br>
+  → <b>Preserve all</b> of your apps and uninstall. <br>
+  → <b>Uninstall all</b> of your apps alongside TrollStore.
+  
+4. After tapping one of them, TrollStore should be uninstalled.</details>
+
+<details><summary>Uninstalling through <b>Persistence Helper</b></a></summary>
+
+1. Open your Persistence Helper.
+
+2. Find and tap `Uninstall TrollStore`
+
+3. Choose one of the options: <br>
+  → <b>Preserve all</b> of your apps and uninstall. <br>
+  → <b>Uninstall all</b> of your apps alongside TrollStore.
+  
+4. After tapping one of them, TrollStore should be uninstalled.
+
+5. Re-open the Persistence Helper and tap `Uninstall Persistence Helper` then tap `Continue`.</details>

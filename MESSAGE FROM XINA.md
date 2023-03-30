@@ -5,8 +5,8 @@ Please do not harass or bombard the developer's Twitter. Don't go asking or hara
 # **Warning!**
 
 XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
-- [Device Compatibility List](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
-- [Warnings About XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
+- [Device Compatibility List](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
+- [Warnings About XinaA15](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
 
 # **Currently supported:**
 
@@ -18,23 +18,31 @@ XinaA15 currently support (or include) many of the following:
 - Easy installation, removal, updating, etc
 - and much more.
 
-# **Supported development environments**
+# To Developers
+### Supported Environments
 
 XinaA15 is currently compatible with all of the development environments you currently use.
 
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
+***
+### **Development Daemons**
 
-# **Developers!**
+- `launchdhook` → (can't be ended) function hook launch
+- `jailbreak_safe` → (non ending) function can be started again without exploiting vulnerabilities
+- `jailbreakd` → (cannot be ended) Function signature and all signing permission related operations
+- `jailbreakd_cmd` → this was recently added and Xina520 has not reported on what it does.
+***
+### Development Information
 
 There's no need to change **theos** or anything else, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing else needs to be changed)
 
-- Full support for make install
-- Full support for make uninstall
-- Full support for make do
+- Full support for `make install`
+- Full support for `make uninstall`
+- Full support for `make do`
+***
+### Installing iOSOpenDev
 
-**Installaton of iOSOpendev:**
-
-For the normal use and installation of iOSOpendev, no changes are required.
+For the normal use and installation of iOSOpenDev, no changes are required.
 
 1. Compile the log. 
 
@@ -52,31 +60,23 @@ During the compilation process, the console will display the current log. Please
 
 `make install`
 
-# **Jailbreak Directories**
+# **Development Directories**
 
 ### Jailbreak Directory
-- /var/jb
+- `/var/jb`
 
-Ths is equivalent to root but just in `/var/jb`, as this directory supports external read/write permissions, which can be used for data for tweaks.
-
+Ths is XinaA15's equivalent to root, however it's in `/var`, as this directory supports external read/write permissions, which can be used for data for tweaks.
+***
 ### **Font Directory**
-- /var/jb/Library/Fonts 
+- `/var/jb/Library/Fonts`
  
 The fonts in this directory are changeable if requested by the user.
-
+***
 ### **Guardian Directory**
-- /var/jb/Library/LaunchDaemons
-
+- `/var/jb/Library/LaunchDaemons`
+***
 ### **For more directories, check here:**
-- /var/jb/Library/
-
-# **About my daemons**
-
-launchdhook (can't be ended) function hook launch
-
-jailbreak_ safe (non ending) function can be started again without exploiting vulnerabilities
-
-jailbreakd (cannot be ended) Function signature and all signing permission related operations
+- `/var/jb/Library/`
 
 # SSH on XinaA15
 In XinaA15, we support connecting to your phone with SSH as long as you're jailbroken! Below is how to connect through SSH or reset your SSH password.

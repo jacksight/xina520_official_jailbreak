@@ -1,9 +1,13 @@
+###### Want a better installation guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Installation)!
+***
 # XinaA15 Installation Guide
 XinaA15 is a jailbreak that is in-development and in public beta. **Please make sure to use this jailbreak with precaution.**
 
-**Precautions:** [**WARNINGS.md**](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) ● **Supported Devices/iOS:** [**SUPPORTED.md**](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) ● **XinaA15 Fixes:** [**FIXES.md**](https://github.com/NotDarkn/XinaA15/blob/main/FIXES.md)
+- [**Compatibility List**](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
+- [**List of Warnings**](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
+- [**XinaA15 Fixes**](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
 
-# Installation Steps
+## Installation Steps
 **1.** Start following the instructions to install TrollStore from [here](https://github.com/opa334/TrollStore/blob/main/install_trollhelperota_ios15.md).
 
 **2.** After installing TrollStore, download the latest XinaA15 app from [here](https://github.com/jacksight/xina520_official_jailbreak/releases).
@@ -23,12 +27,12 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **8.** After installing Sileo, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
 
-# Post-installation
-**Do NOT update any of the 30+ packages in Sileo.**
-Updating all of the XinaA15 packages will break XinaA15 from installing or doing anything, and will require a reinstallation of the jailbreak environment.
+## Post-Installation Recommendations
+**DO NOT UPDATE THE 35+ PACKAGES** <br>
+Sileo or Saily will ask you to update them. **DO NOT.** This breaks the jailbreak.
 
 **ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
-- **RocketBootstrap** (1.1.0~libhooker2)
+- **RocketBootstrap** (1.0.10~beta2)
 
 **ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
 - **PreferenceLoader** (1.0.16)
