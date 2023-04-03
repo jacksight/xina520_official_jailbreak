@@ -1,4 +1,4 @@
-###### Want a new and improved list of Fixes? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
+#### Want a new and improved list of Fixes? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
 ***
 # Fixes for XinaA15
 XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
