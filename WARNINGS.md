@@ -1,4 +1,4 @@
-###### Require a better list of warnings? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)!
+#### Require a better list of warnings? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)!
 ***
 # QUICK NOTE:
 
