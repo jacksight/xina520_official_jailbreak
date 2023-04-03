@@ -1,4 +1,4 @@
-#### Want a better supported list? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)!
+#### Want a better compatibility list? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)!
 ***
 # QUICK NOTE
 This version compatibility list will most likely not be changed any time soon and is most likely **final.** 
