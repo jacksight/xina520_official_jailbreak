@@ -1,4 +1,4 @@
-###### Want a better uninstall guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)!
+#### Want a better uninstall guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)!
 ***
 # XinaA15 Uninstallation Guide
 Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes:
