@@ -19,9 +19,7 @@ Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes
 
 **4.** Let XinaA15 complete the process and then the jailbreak should be uninstalled.
 
-**5.** Afterwards, open TrollStore, tap XinaA15, and tap `Uninstall App`.
-
-**6.** Everything related to the jailbreak should now be uninstalled.
+**5.** Everything related to the jailbreak should now be uninstalled.
 
 ## TrollStore Uninstallation Guide
 Uninstalling TrollStore **is not recommend.** It's convenient and useful if you aren't just using it for XinaA15. Uninstalling it will remove everything related to XinaA15 however.
