@@ -1,3 +1,4 @@
+### Migrating to Fugu15? Read the guide [here](https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-fugu15-max).
 #### Want a better uninstall guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)!
 ***
 # XinaA15 Uninstallation Guide
