@@ -1,4 +1,5 @@
-# [Migrate from XinaA15 to Fugu15 Max Guide](https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-fugu15-max)
+<h1><p align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-fugu15-max">XinaA15 → Fugu15 Guide</p></h1>
+
 # XinaA15 - A iOS 15.0 to 15.1.1 jailbreak made by @xina520
 XinaA15 is a **semi-untethered jailbreak** made for **A12+ devices** running **iOS 15.0 up to 15.1.1.**
 
