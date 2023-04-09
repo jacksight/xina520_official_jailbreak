@@ -11,9 +11,9 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
  - [Warnings for XinaA15](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
 
 **Guides:**
- - [Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md)
- - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
- - [Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
+ - [Installation Guide](https://github.com/NotDarkn/XinaA15/wiki/Installation)
+ - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)
+ - [Update Guide](https://github.com/NotDarkn/XinaA15/wiki/Updating)
 
 # Need help?
 
