@@ -23,7 +23,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 - `Re-Jailbreak` in the jailbreak button on the bottom of the app.
 - **If it doesn't state either of that:** Repeat Step 5 and then re-open the app to check again.
 
-**7.** Once you've jailbroken, download & install Sileo: Xina through TrollStore from [here](https://github.com/Sileo/Sileo/releases).
+**7.** Once you've jailbroken, download the latest version of Sileo that supports XinaA15 [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-5).
 
 **8.** After installing Sileo, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
 
