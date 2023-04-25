@@ -23,7 +23,7 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 - iPhone XS [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPhone XR [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPhone 11 [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
-- iPhone SE 2nd Generation [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
+- iPhone SE (2) [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
 - iPhone 12 [**(A14)**](https://en.wikipedia.org/wiki/Apple_A14)
 - iPhone 13 [**(A15)**](https://en.wikipedia.org/wiki/Apple_A15)
 
