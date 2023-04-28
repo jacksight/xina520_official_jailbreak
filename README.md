@@ -12,7 +12,7 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
 
 **Guides:**
  - [Installation Guide](https://github.com/NotDarkn/XinaA15/wiki/Installation)
- - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
+ - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/wiki/Uninstalling)
  - [Update Guide](https://github.com/NotDarkn/XinaA15/wiki/Updating)
 
 # Need help?
