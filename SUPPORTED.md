@@ -30,7 +30,6 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 #### iPads
 - iPad 8th Generation [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPad 9th Generation [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
-- iPad 10th Generation [**(A14)**](https://en.wikipedia.org/wiki/Apple_A14)
 
 #### iPad Minis
 - iPad Mini 5th Generation [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
