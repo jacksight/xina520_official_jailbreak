@@ -1,4 +1,4 @@
-###### Want a new and improved list of Fixes? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
+#### Want a new and improved list of Fixes? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Fixes)!
 ***
 # Fixes for XinaA15
 XinaA15 is a jailbreak that is in public beta and is still in-development. Due to this, there will be many issues that you'll encounter and may want to fix. If you encounter any of the issues below, try using the fixes listed.
@@ -50,7 +50,7 @@ This is either a case of an incompatible tweak or you haven't respringed your de
 
 ### What can I do if Sileo won't open?
 - **Try rejailbreaking the device**: Reboot → Open XinaA15 → Tap `OpenJailbreak`
-- **Try reinstalling Sileo**: Download Sileo x Xina from [here](https://github.com/Sileo/Sileo/releases)
+- **Try reinstalling Sileo**: Download Sileo x Xina from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-5)
 
 ***
 
@@ -106,8 +106,7 @@ Unsure for what the reason for this is, however the fix is quite simple.
 ***
 
 ### Why can't I log into my accounts in Sileo?
-- **Install Sileo: Nightly** from [Amy's Repo](https://repo.anamy.gay)
-- **Install Sileo: Xina Beta** from [here](https://github.com/Sileo/Sileo/releases)
+- **Install Sileo: Xina Beta** from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-5)
 
 ***
 
@@ -147,8 +146,7 @@ Don't update any of those packages when using version `1.1.5` or higher, this wi
 ***
 
 ### Why doesn't Sileo automatically respring or reboot the device?
-- **Install Sileo: Nightly through the repo here:** [Amy's Repo](https://repo.anamy.gay/)
-- **Install the Sileo: Nightly .deb through Filza from here:** [Sileo: Xina Beta](https://github.com/Sileo/Sileo/releases)
+- **Install the Sileo: Nightly .deb through Filza from [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-5).
 
 ***
 

@@ -1,16 +1,14 @@
-###### Require a better list of warnings? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)!
+#### Require a better list of warnings? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Warnings)!
 ***
 # QUICK NOTE:
 
-Upon use of XinaA15: **Any damages or issues that you encounter on your device are your fault and resonsbility.**
-
-When jailbreaking with XinaA15, you acknowledge that: **this jailbreak is in public beta & development.**
-
-If you acknowledge that all damages or issues are **YOUR FAULT & RESPONSIBILITY**, please continue reading below.
+Upon jailbreaking and using XinaA15, you acknowledge that:
+- **ALL DAMAGES OR ISSUES** are **YOUR FAULT AND RESPONSIBILITY.**
+- This jailbreak is in **public beta AND development.**
 
 # AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
 If you don't check this, you are more likely to run into issues or even break your device.
-Please check the [supported devices list](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) before doing anything.
+Please check the [supported devices list](https://github.com/NotDarkn/XinaA15/wiki/Compatibility) before doing anything.
 
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 

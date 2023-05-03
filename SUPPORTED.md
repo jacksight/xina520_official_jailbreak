@@ -1,4 +1,4 @@
-###### Want a better supported list? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)!
+#### Want a better compatibility list? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)!
 ***
 # QUICK NOTE
 This version compatibility list will most likely not be changed any time soon and is most likely **final.** 
@@ -23,13 +23,13 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 - iPhone XS [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPhone XR [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPhone 11 [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
+- iPhone SE (2) [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
 - iPhone 12 [**(A14)**](https://en.wikipedia.org/wiki/Apple_A14)
 - iPhone 13 [**(A15)**](https://en.wikipedia.org/wiki/Apple_A15)
 
 #### iPads
 - iPad 8th Generation [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPad 9th Generation [**(A13)**](https://en.wikipedia.org/wiki/Apple_A13)
-- iPad 10th Generation [**(A14)**](https://en.wikipedia.org/wiki/Apple_A14)
 
 #### iPad Minis
 - iPad Mini 5th Generation [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
@@ -38,7 +38,6 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 #### iPad Airs
 - iPad Air 3rd Generation [**(A12)**](https://en.wikipedia.org/wiki/Apple_A12)
 - iPad Air 4th Generation [**(A14)**](https://en.wikipedia.org/wiki/Apple_A14)
-- iPad Air 5th Generation [**(M1)**](https://en.wikipedia.org/wiki/Apple_M1)
 
 #### iPad Pros (11in)
 - iPad Pro 11-inch 1st Generation [**(A12X)**](https://en.wikipedia.org/wiki/Apple_A12X)

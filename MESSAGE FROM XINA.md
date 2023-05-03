@@ -2,6 +2,10 @@
 
 Please do not harass or bombard the developer's Twitter. Don't go asking or harassing him about supporting more iOS versions or devices. Don't go asking or harassing him to fix issues that you encounter. He made a jailbreak for A12+ devices running iOS 15.0 up to 15.1.1 and we should be grateful for that.
 
+### Xina520 may stop developing XinaA15
+
+Xina520, the developer of XinaA15, has stated in multiple screenshots ([1](https://user-images.githubusercontent.com/73033672/232335719-a854e395-00b3-4bfc-b64c-205a264e36a7.jpg), [2](https://user-images.githubusercontent.com/73033672/232335732-3c940730-9ab1-4b37-8f0c-3096263d4e6c.jpg)) and a [Twitter Post](https://twitter.com/xina520/status/1644713180248305665/photo/1) that he may stop doing jailbreak development. Since Xina520 is the only developer of XinaA15 and no other jailbreak developer has direct contact with him, XinaA15 is pretty much at risk of being discontinued. **PLEASE PLEASE PLEASE, MOVE TO [Fugu15 Max](https://github.com/opa334/Fugu15).**
+
 # **Warning!**
 
 XinaA15 is a in-development and public beta jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
@@ -48,11 +52,11 @@ For the normal use and installation of iOSOpenDev, no changes are required.
 
 During the compilation process, the console will display the current log. Please ignore the following:
 
-`Idid: Unknown header magic`
+`ldid: Unknown header magic`
 
 `Are you sure that is a Mach-O?`
 
-`Idid: operator(): No such file or directory`
+`ldid: operator(): No such file or directory`
 
 2. After that, do the following:
 

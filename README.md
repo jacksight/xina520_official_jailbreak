@@ -1,19 +1,21 @@
+<h1><p align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-fugu15-max">XinaA15 → Fugu15 Guide</p></h1>
+
 # XinaA15 - A iOS 15.0 to 15.1.1 jailbreak made by @xina520
 XinaA15 is a **semi-untethered jailbreak** made for **A12+ devices** running **iOS 15.0 up to 15.1.1.**
 
 Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & **in-development jailbreak**. Any issues that you encounter are **your fault and responsibility.**
 
-# Start Here:
+## Start Here:
  **Important:**
  - [Device Compatibility List](https://github.com/NotDarkn/XinaA15/wiki/Compatibility)
  - [Warnings for XinaA15](https://github.com/NotDarkn/XinaA15/wiki/Warnings)
 
 **Guides:**
- - [Installation Guide](https://github.com/NotDarkn/XinaA15/blob/main/-INSTALL.md)
- - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/blob/main/-REMOVE.md)
- - [Update Guide](https://github.com/NotDarkn/XinaA15/blob/main/-UPDATE.md)
+ - [Installation Guide](https://github.com/NotDarkn/XinaA15/wiki/Installation)
+ - [Uninstall Guide](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)
+ - [Update Guide](https://github.com/NotDarkn/XinaA15/wiki/Updating)
 
-# Need help?
+## Need help?
 
 - **Join the Support Server:<br>**
 [Discord Server Invite](https://discord.gg/xina-a15)
@@ -24,7 +26,7 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
 - **Create an issue on the XinaA15 GitHub:<br>**
 [XinaA15 GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
-# Screenshots of XinaA15: 1.1.8
+## Screenshots of XinaA15: 1.1.8
 ![IMG_MIX](https://user-images.githubusercontent.com/73033672/228721971-175cb6d2-628b-4e57-81a8-0a518608f827.PNG)
 ***
-###### Want a much better guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki)!
+#### Want a much better guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki)!
