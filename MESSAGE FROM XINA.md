@@ -4,7 +4,7 @@ Please do not harass or bombard the developer's Twitter. Don't go asking or hara
 
 ### XinaA15 development may stall
 
-Xina520, the developer of XinaA15, has stated in screenshots ([1](https://user-images.githubusercontent.com/73033672/232335719-a854e395-00b3-4bfc-b64c-205a264e36a7.jpg), [2](https://user-images.githubusercontent.com/73033672/232335732-3c940730-9ab1-4b37-8f0c-3096263d4e6c.jpg)) and a [Twitter Post](https://twitter.com/xina520/status/1644713180248305665/photo/1) that he may stop developing jailbreaks. Since Xina520 is the only developer of XinaA15, the jailbreak is pretty much at risk of being discontinued. **PLEASE PLEASE PLEASE, MOVE TO [Dopamine](https://github.com/opa334/Dopamine).**
+Xina520, the developer of XinaA15, has stated in screenshots ([1](https://user-images.githubusercontent.com/73033672/232335719-a854e395-00b3-4bfc-b64c-205a264e36a7.jpg), [2](https://user-images.githubusercontent.com/73033672/232335732-3c940730-9ab1-4b37-8f0c-3096263d4e6c.jpg)) and a [Twitter Post](https://twitter.com/xina520/status/1644713180248305665/photo/1) that he may stop developing jailbreaks. Since Xina520 is the only developer of XinaA15, the jailbreak is pretty much at risk of being discontinued. **Move to [Dopamine](https://github.com/opa334/Dopamine) instead.**
 
 # **Warning!**
 
