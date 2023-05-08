@@ -21,3 +21,16 @@ Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes
 
 **5.** Everything related to the jailbreak should now be uninstalled, including the app.
 
+## Migrating to Dopamine
+
+> XinaA15 **MUST BE UNINSTALLED** in order to proceed.
+
+**1.** Uninstall Sileo Nightly from [TrollStore](https://user-images.githubusercontent.com/73033672/230707908-be8c9ddb-5895-4c31-ba34-a1c34be58a6e.jpeg)
+
+**2.** Install [Filza (TrollStore)](https://www.tigisoftware.com/default/?p=439) and go into the folder `/private/preboot/<UUID>/`. **If** a Procursus folder is present, **delete it.**
+
+**3.** Download the latest [Dopamine IPA](https://github.com/opa334/Dopamine/releases) and install with TrollStore.
+
+**4.** Enable [Airplane Mode](https://support.apple.com/en-us/HT204234) _(cause you're on 15.0-15.1.1)_ and then press `Jailbreak`
+
+**5.** Enjoy using Dopamine! Thank you for having used XinaA15 and being with us.
