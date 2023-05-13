@@ -3,7 +3,7 @@
 # QUICK NOTE:
 
 Upon jailbreaking and using XinaA15, you acknowledge that:
-- **ALL DAMAGES OR ISSUES** are **YOUR FAULT AND RESPONSIBILITY.**
+- **ALL** damages and issues are **YOUR FAULT AND RESPONSIBILITY.**
 - This jailbreak is in **public beta AND development.**
 
 ## Compatibility Reminder
