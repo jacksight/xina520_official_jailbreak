@@ -6,11 +6,11 @@ Upon jailbreaking and using XinaA15, you acknowledge that:
 - **ALL DAMAGES OR ISSUES** are **YOUR FAULT AND RESPONSIBILITY.**
 - This jailbreak is in **public beta AND development.**
 
-# AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
+## Compatibility Reminder
 If you don't check this, you are more likely to run into issues or even break your device.
 Please check the [supported devices list](https://github.com/NotDarkn/XinaA15/wiki/Compatibility) before doing anything.
 
-# BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
+## Warnings
 
 XinaA15 is currently in its **public beta stage** and due to this you **WILL** encounter issues at a certain point of time. 
 
