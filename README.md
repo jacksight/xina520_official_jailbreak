@@ -1,6 +1,22 @@
 <h1><p align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-dopamine">XinaA15 → Dopamine Guide</p></h1>
 
-# XinaA15 - A iOS 15.0 to 15.1.1 jailbreak made by @xina520
+<picture>
+	<source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/892067098728230963/1107682190189396058/XinaA15_Semi-Baner_-_Middle.png">
+	<img align="left" height="120" src="https://cdn.discordapp.com/attachments/892067098728230963/1107682190189396058/XinaA15_Semi-Baner_-_Middle.png" alt="XinaA15 Banner" style="float: left;"/>
+</picture>
+<h3 align="right">An iOS 15.0-15.1.1 in-development, <br>semi-untethered arm64e jailbreak</h3> 
+<p align="right">
+  <strong><a href="https://github.com/NotDarkn/XinaA15/wiki">Wiki</a></strong>
+  •
+  <strong><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions">FAQ</a></strong>
+  •
+  <strong><a href="https://discord.gg/xina-a15">Discord</a></strong>
+  •
+  <strong><a href="https://twitter.com/xina520">Twitter</a></strong>
+</p>
+<div class="clear"></div>
+
+***
 XinaA15 is a **semi-untethered jailbreak** made for **A12+ devices** running **iOS 15.0 up to 15.1.1.**
 
 Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & **in-development jailbreak**. Any issues that you encounter are **your fault and responsibility.**
