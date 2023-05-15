@@ -1,8 +1,8 @@
 <h1><p align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-dopamine">XinaA15 → Dopamine Guide</p></h1>
 
 <picture>
-	<source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/892067098728230963/1107682190189396058/XinaA15_Semi-Baner_-_Middle.png">
-	<img align="left" height="120" src="https://cdn.discordapp.com/attachments/892067098728230963/1107682190189396058/XinaA15_Semi-Baner_-_Middle.png" alt="XinaA15 Banner" style="float: left;"/>
+	<source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/892067098728230963/1107684318760947762/XinaA15_Semi-Baner_-_Middle.png">
+	<img align="left" height="120" src="https://cdn.discordapp.com/attachments/892067098728230963/1107684318760947762/XinaA15_Semi-Baner_-_Middle.png" alt="XinaA15 Banner" style="float: left;"/>
 </picture>
 <h3 align="right">An iOS 15.0-15.1.1 in-development, <br>semi-untethered arm64e jailbreak</h3> 
 <p align="right">
