@@ -4,7 +4,7 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/892067098728230963/1107684318760947762/XinaA15_Semi-Baner_-_Middle.png">
 	<img align="left" height="120" src="https://cdn.discordapp.com/attachments/892067098728230963/1107684318760947762/XinaA15_Semi-Baner_-_Middle.png" alt="XinaA15 Banner" style="float: left;"/>
 </picture>
-<h3 align="right">An iOS 15.0-15.1.1 in-development, <br>semi-untethered arm64e jailbreak</h3> 
+<h3 align="right">An iOS 15.0-15.1.1 in-development, <br>semi-untethered A12+ jailbreak</h3> 
 <p align="right">
   <strong><a href="https://github.com/NotDarkn/XinaA15/wiki">Wiki</a></strong>
   •
