@@ -40,11 +40,11 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 - iPad Air **(4th Generation)**
 
 #### iPad Pros (11in)
-- iPad Pro (11-inch) **(1st Generation)**
-- iPad Pro (11-inch) **(2nd Generation)**
-- iPad Pro (11-inch) **(3rd Generation)**
+- [iPad Pro (11-inch) **(1st Generation)**](https://theapplewiki.com/wiki/IPad_Pro_(11-inch)_(1st_generation))
+- [iPad Pro (11-inch) **(2nd Generation)**](https://theapplewiki.com/wiki/IPad_Pro_(11-inch)_(2nd_generation))
+- [iPad Pro (11-inch) **(3rd Generation)**](https://theapplewiki.com/wiki/IPad_Pro_(11-inch)_(3rd_generation))
 
 #### iPad Pros (12in)
-- iPad Pro (12.9in) **(3rd Generation)**
-- iPad Pro (12.9in) **(4th generation)**
-- iPad Pro (12.9in) **(5th Generation)**
+- [iPad Pro (12.9in) **(3rd Generation)**](https://theapplewiki.com/wiki/IPad_Pro_(12.9-inch)_(3rd_generation))
+- [iPad Pro (12.9in) **(4th generation)**](https://theapplewiki.com/wiki/IPad_Pro_(12.9-inch)_(4th_generation))
+- [iPad Pro (12.9in) **(5th Generation)**](https://theapplewiki.com/wiki/IPad_Pro_(12.9-inch)_(5th_generation))
