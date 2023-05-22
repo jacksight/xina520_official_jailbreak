@@ -31,6 +31,6 @@ Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes
 
 **3.** Download the latest [Dopamine IPA](https://github.com/opa334/Dopamine/releases) and install with TrollStore.
 
-**4.** Enable [Airplane Mode](https://support.apple.com/en-us/HT204234) _(cause you're on 15.0-15.1.1)_ and then press `Jailbreak`
+**4.** Open the Dopamine app and then tap `Jailbreak`, Wi-Fi will be automatically disabled for you.
 
 **5.** Enjoy using Dopamine! Thank you for having used XinaA15 and being with us.
