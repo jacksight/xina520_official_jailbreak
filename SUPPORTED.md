@@ -23,7 +23,7 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 - [iPhone **XS**](https://theapplewiki.com/wiki/D321AP)
 - [iPhone **XR**](https://theapplewiki.com/wiki/N841AP)
 - [iPhone **11**](https://theapplewiki.com/wiki/N104AP)
-- [iPhone **SE (2)**](https://theapplewiki.com/wiki/D74AP)
+- [iPhone **SE (2)**](https://theapplewiki.com/wiki/D79AP)
 - [iPhone **12**](https://theapplewiki.com/wiki/D53gAP)
 - [iPhone **13**](https://theapplewiki.com/wiki/D17AP)
 ***
