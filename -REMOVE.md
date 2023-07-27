@@ -27,7 +27,7 @@ Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes
 
 **1.** Uninstall Sileo Nightly from [TrollStore](https://user-images.githubusercontent.com/73033672/230707908-be8c9ddb-5895-4c31-ba34-a1c34be58a6e.jpeg)
 
-**2.** Install [Filza (TrollStore)](https://www.tigisoftware.com/default/?p=439) and go into the folder `/private/preboot/<UUID>/`. **If** a Procursus folder is present, **delete it.**
+**2.** Install [Filza (TrollStore)](https://www.tigisoftware.com/default/?p=439) and go into the folder `/private/preboot/<UUID>/`. **If** a Procursus folder is present, **delete it.** Skip this step if there isn't a Procursus folder.
 
 **3.** Download the latest [Dopamine IPA](https://github.com/opa334/Dopamine/releases) and install with TrollStore.
 
