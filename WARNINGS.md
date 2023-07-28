@@ -25,7 +25,7 @@ XinaA15 is also a **rootless jailbreak.** Many tweaks will be unsupported and re
 
 ### Preventing Damage
 - [**Backup your device.**](https://support.apple.com/en-us/HT203977) <br>
-You can use Finder (macOS), iTunes (Windows), or iCloud to backup your device.
+You can use Finder ([macOS](https://support.apple.com/en-us/HT210611)), iTunes ([Windows](https://support.apple.com/en-us/HT210384)), or [iCloud](https://support.apple.com/en-us/HT211228) to backup your device.
 
 - [**Do not install any dangerous tweaks.**](https://user-images.githubusercontent.com/73033672/211621673-bdaaec4b-9b8e-43e2-8d00-0c2fec1c962c.png) <br>
 Downloading dangerous tweaks or anything from piracy repos may endanger your device.
