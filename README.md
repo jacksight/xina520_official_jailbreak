@@ -32,13 +32,13 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
 
 ## Need help?
 
-- **Join the Support Server:<br>**
+- **List of XinaA15 Fixes:<br>**
+[Complete List of Fixes](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
+
+- **XinaA15 Support Server:<br>**
 [Discord Server Invite](https://discord.gg/xina-a15)
 
-- **Try fixing your XinaA15 issues here:<br>**
-[Detailed List of Fixes](https://github.com/NotDarkn/XinaA15/wiki/Fixes)
-
-- **Create an issue on the XinaA15 GitHub:<br>**
+- **Report XinaA15 Issues Page:<br>**
 [XinaA15 GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
 ## XinaA15 Screenshots: 1.1.8
