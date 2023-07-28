@@ -6,16 +6,20 @@ This version compatibility list will most likely not be changed any time soon an
 Until Xina520 releases an update that adds more compatibility for more devices or iOS versions, this list will not be updated.
 
 ## SUPPORTED VERSIONS
-**Any A12+ device running the following iOS versions:**
 - [**iOS + iPadOS 15.0**](https://support.apple.com/en-us/HT212788#15) <br>
+**15.0** was released on September 24, 2021, and the build number was: `19A341` or `19A346`
 
 - [**iOS + iPadOS 15.0.1**](https://support.apple.com/en-us/HT212788#1501) <br>
+**15.0.1** was released on October 1, 2021, and the build number was: `19A348`
 
 - [**iOS + iPadOS 15.0.2**](https://support.apple.com/en-us/HT212788#1502) <br>
+**15.0.2** was released on October 11, 2021, and the build number was `19A404`
 
 - [**iOS + iPadOS 15.1**](https://support.apple.com/en-us/HT212788#151) <br>
+**15.1** was released on October 25, 2021, and the build number was `19B74`
 
 - [**iOS + iPadOS 15.1.1**](https://support.apple.com/en-us/HT212788#1511) <br>
+**15.1.1** was released on November 17, 2021, and the build number was `19B81`
 
 ## SUPPORTED DEVICES
 **All devices running A12 up to the A15 or M1, or any of the devices listed:**
