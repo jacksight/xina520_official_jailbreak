@@ -1,4 +1,4 @@
-<h2><p align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-dopamine">XinaA15 → Dopamine Guide</p></h2>
+<h2 align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-dopamine">XinaA15 → Dopamine Guide</h2>
 
 <picture>
 	<img align="left" height="120" src="https://cdn.discordapp.com/attachments/892067098728230963/1107684318760947762/XinaA15_Semi-Baner_-_Middle.png" alt="XinaA15 Banner" style="float: left;"/>
