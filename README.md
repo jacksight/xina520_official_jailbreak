@@ -44,4 +44,4 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
 ## XinaA15 Screenshots: 1.1.8
 ![IMG_MIX](https://user-images.githubusercontent.com/73033672/228721971-175cb6d2-628b-4e57-81a8-0a518608f827.PNG)
 ***
-#### Want a much better guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki)!
+<h3 align="center">Want a much better guide? Go to the <a href="https://github.com/NotDarkn/XinaA15/wiki">Wiki</a>!</h3>
