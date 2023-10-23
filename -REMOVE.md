@@ -1,5 +1,3 @@
-<h1><b><p align="center">Migrating to Dopamine? Read the guide <a href=https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-dopamine>here.</p></b></h1>
-
 #### Want a better uninstall guide? Go to the [Wiki](https://github.com/NotDarkn/XinaA15/wiki/Uninstalling)!
 ***
 # XinaA15 Uninstallation Guide
@@ -23,44 +21,16 @@ Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes
 
 **5.** Everything related to the jailbreak should now be uninstalled, including the app.
 
-## TrollStore Uninstallation Guide
-Uninstalling TrollStore **is not recommended.** It's convenient and useful if you aren't just using it for XinaA15. Uninstalling it will remove everything related to XinaA15 however.
+## Migrating to Dopamine
 
-**Only one method is required.**
-<details><summary>Uninstalling through <b>TrollStore</b></a></summary>
+> XinaA15 **MUST BE UNINSTALLED** in order to proceed.
 
-1. Tap Settings in TrollStore.
+**1.** Uninstall Sileo Nightly from [TrollStore](https://user-images.githubusercontent.com/73033672/230707908-be8c9ddb-5895-4c31-ba34-a1c34be58a6e.jpeg)
 
-2. Scroll down and tap `Uninstall TrollStore`
+**2.** Install [Filza (TrollStore)](https://www.tigisoftware.com/default/?p=439) and go into the folder `/private/preboot/<UUID>/`. **If** a Procursus folder is present, **delete it.** Skip this step if there **isn't** a Procursus folder.
 
-3. Choose one of the options: <br>
-  → <b>Preserve all</b> of your apps and uninstall. <br>
-  → <b>Uninstall all</b> of your apps alongside TrollStore.
+**3.** Download the latest [Dopamine IPA](https://github.com/opa334/Dopamine/releases) and install with TrollStore.
 
-4. After tapping one of them, TrollStore should be uninstalled.</details>
+**4.** Open the Dopamine app and then tap `Jailbreak`, Wi-Fi will be automatically disabled for you.
 
-<details><summary>Uninstalling through <b>GTA Car Tracker</b></a></summary>
-
-1. Open GTA Car Tracker
-
-2. Find and tap `Uninstall TrollStore`
-
-3. Choose one of the options: <br>
-  → <b>Preserve all</b> of your apps and uninstall. <br>
-  → <b>Uninstall all</b> of your apps alongside TrollStore.
-  
-4. After tapping one of them, TrollStore should be uninstalled.</details>
-
-<details><summary>Uninstalling through <b>Persistence Helper</b></a></summary>
-
-1. Open your Persistence Helper.
-
-2. Find and tap `Uninstall TrollStore`
-
-3. Choose one of the options: <br>
-  → <b>Preserve all</b> of your apps and uninstall. <br>
-  → <b>Uninstall all</b> of your apps alongside TrollStore.
-  
-4. After tapping one of them, TrollStore should be uninstalled.
-
-5. Re-open the Persistence Helper and tap `Uninstall Persistence Helper` then tap `Continue`.</details>
+**5.** Enjoy using Dopamine! Thank you for having used XinaA15 and being with us.

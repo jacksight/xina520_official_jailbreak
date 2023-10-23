@@ -17,7 +17,7 @@ When updating XinaA15, there will be drawbacks as listed below. Make sure to bac
 
 **2.** After your device has rebooted, uninstall the old XinaA15 app in TrollStore.
 
-**3.** Once deleted, download the new XinaA15 IPA from [here](https://github.com/jacksight/xina520_official_jailbreak/releases)
+**3.** Once deleted, download the new XinaA15 IPA from [here](https://github.com/NotDarkn/XinaA15/releases)
 
 **4.** After it's downloaded, install the new IPA in TrollStore.
 
