@@ -28,11 +28,9 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 **8.** After installing Sileo, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
 
 ## Post-Installation Recommendations
-**DO NOT UPDATE THE 35+ PACKAGES** <br>
-Sileo or Saily will ask you to update them. **DO NOT.** This breaks the jailbreak.
-
-**ADD THE** [`apt.xina.vip`](https://apt.xina.vip) **REPO AND INSTALL:**
-- **RocketBootstrap** (1.0.10~beta2)
 
 **ADD THE** [`artikushg.github.io`](https://artikushg.github.io) **REPO AND INSTALL:**
 - **PreferenceLoader** (1.0.16)
+
+**UPDATE ALL OF THE PACKAGES IN THE PACKAGES LIST:** <br />
+Packages → Upgrade All → Queued: ## Packages → Confirm  → Respring/Reboot Device Button
