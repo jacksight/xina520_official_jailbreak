@@ -23,7 +23,7 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 **7.** Your device will either reboot or ldrestart, re-open the XinaA15 app and check if it states:
 - `Currently in jailbreak status....` in the console window/log.
 - `Jailbreak Status` in the jailbreak button on the bottom of the app.
-- **If it doesn't state either of that:** Repeat Step 5 and then re-open the app to check again.
+- **If it doesn't state either of that:** Repeat Step 6 and then re-open the app to check again.
 
 **8.** Once you've jailbroken, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
 
