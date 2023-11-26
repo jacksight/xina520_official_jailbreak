@@ -6,20 +6,11 @@ This version compatibility list will most likely not be changed any time soon an
 Until Xina520 releases an update that adds more compatibility for more devices or iOS versions, this list will not be updated.
 
 ## SUPPORTED VERSIONS
-- [**iOS + iPadOS 15.0**](https://support.apple.com/en-us/HT212788#15) <br>
-**15.0** was released on September 24, 2021, and the build number was: `19A341` or `19A346`
+- [**iOS + iPadOS 15.0**](https://support.apple.com/en-us/HT212788#15) to [**iOS + iPadOS 15.1.1**](https://support.apple.com/en-us/HT212788#1511)<br />
+This is with normal **XinaA15** support.
 
-- [**iOS + iPadOS 15.0.1**](https://support.apple.com/en-us/HT212788#1501) <br>
-**15.0.1** was released on October 1, 2021, and the build number was: `19A348`
-
-- [**iOS + iPadOS 15.0.2**](https://support.apple.com/en-us/HT212788#1502) <br>
-**15.0.2** was released on October 11, 2021, and the build number was `19A404`
-
-- [**iOS + iPadOS 15.1**](https://support.apple.com/en-us/HT212788#151) <br>
-**15.1** was released on October 25, 2021, and the build number was `19B74`
-
-- [**iOS + iPadOS 15.1.1**](https://support.apple.com/en-us/HT212788#1511) <br>
-**15.1.1** was released on November 17, 2021, and the build number was `19B81`
+- [**iOS + iPadOS 15.2**](https://support.apple.com/en-us/HT212788#152) to [**iOS + iPadOS 15.4.1**](https://support.apple.com/en-us/HT212788#1541)<br />
+This is with **Fugu15** and **kfd** support.
 
 ## SUPPORTED DEVICES
 **All devices running A12 up to the A15 or M1, or any of the devices listed:**
@@ -30,6 +21,7 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 - [iPhone **SE (2)**](https://theapplewiki.com/wiki/D79AP)
 - [iPhone **12**](https://theapplewiki.com/wiki/D53gAP)
 - [iPhone **13**](https://theapplewiki.com/wiki/D17AP)
+- [iPhone **SE (3)**](https://theapplewiki.com/wiki/D49AP)
 ***
 ### iPads
 - [iPad **(8th Generation)**](https://theapplewiki.com/wiki/IPad_(8th_generation))
@@ -42,6 +34,7 @@ Until Xina520 releases an update that adds more compatibility for more devices o
 ### iPad Airs
 - [iPad Air **(3rd Generation)**](https://theapplewiki.com/wiki/IPad_Air_(3rd_generation))
 - [iPad Air **(4th Generation)**](https://theapplewiki.com/wiki/IPad_Air_(4th_generation))
+- [iPad Air **(5th Generation)**](https://theapplewiki.com/wiki/IPad_Air_(5th_generation))
 ***
 ### iPad Pros (11in)
 - [iPad Pro (11-inch) **(1st Generation)**](https://theapplewiki.com/wiki/IPad_Pro_(11-inch)_(1st_generation))
