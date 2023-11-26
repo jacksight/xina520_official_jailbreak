@@ -11,7 +11,7 @@ Uninstalling XinaA15 will delete **everything** jailbreak-related. This includes
 
 **1.** Open XinaA15 and make sure you're currently jailbroken, you can check this by:
 - Look for `Currently in jailbreak status....` in the console window.
-- Look for `Re-Jailbreak` in the jailbreak button on the bottom.
+- Look for `Jailbreak Status` in the jailbreak button on the bottom.
 
 **2.** From here, tap the Gear icon (Settings) and tap `Unintall Xina Jailbreak`
 
