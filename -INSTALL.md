@@ -16,16 +16,16 @@ XinaA15 is a jailbreak that is in-development and in public beta. **Please make 
 
 **4.** After installing XinaA15, go back to your home screen and open the XinaA15 app.
 
-**5.** Tap the `OpenJailbreak` button to start the jailbreak process. Wait 1 or 2 minutes.
+**5.** In the XinaA15 app, go to Settings (top left), and untick/disable "Auto-install Saily for first time"
 
-**6.** Your device will either reboot or ldrestart, re-open the XinaA15 app and check if it states:
+**6.** Exit out of settings and tap the `OpenJailbreak` button to start the jailbreak process. Wait 1 or 2 minutes.
+
+**7.** Your device will either reboot or ldrestart, re-open the XinaA15 app and check if it states:
 - `Currently in jailbreak status....` in the console window/log.
-- `Re-Jailbreak` in the jailbreak button on the bottom of the app.
+- `Jailbreak Status` in the jailbreak button on the bottom of the app.
 - **If it doesn't state either of that:** Repeat Step 5 and then re-open the app to check again.
 
-**7.** Once you've jailbroken, download the latest version of Sileo that supports XinaA15 [here](https://github.com/Sileo/Sileo/releases/tag/xina-beta-5).
-
-**8.** After installing Sileo, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
+**7.** Once you've jailbroken, go to your home screen and open Sileo. You should now be able to install tweaks, themes, and more.
 
 ## Post-Installation Recommendations
 
