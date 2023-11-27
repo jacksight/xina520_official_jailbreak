@@ -99,9 +99,9 @@ In XinaA15, we support connecting to your phone with SSH as long as you're jailb
 
 # **Extra**
 
-If your storage in iCloud is full, the app signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
+<s>If your storage in iCloud is full, the app signature will become invalid after the space has become full. This could also possibly cause some other problems.</s> Use [TrollStore](https://github.com/opa334/TrollStore) instead of traditional sideloading tools.
 
-It is also highly recommened to not update all of the 35 packages in Sileo. While in `1.1.3.6` and `1.1.4` it won't cause too many issues, it is absolutely recommended to not do this in `1.1.5` or higher. Planned to be fixed.
+<s>It is also highly recommened to not update all of the 35 packages in Sileo. While in `1.1.3.6` and `1.1.4` it won't cause too many issues, it is absolutely recommended to not do this in `1.1.5` or higher.</s> This has been fixed in `2.0.8`.
 
 If Xina has more to say or update in his message, this .txt will be updated.
 
