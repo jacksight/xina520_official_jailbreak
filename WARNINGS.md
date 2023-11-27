@@ -33,5 +33,5 @@ Downloading dangerous tweaks or anything from piracy repos may endanger your dev
 - [**Check the XinaA15 Tweak Compatibility List.**](https://docs.google.com/spreadsheets/d/1-VPAvqYYFdiRd2V8iXUNxz7gd9p4UcWsChNwuAU9zcI/htmlview) <br>
 XinaA15 is a rootless jailbreak, and tweak compatibility is not guaranteed, plus it's an iOS 15 jailbreak.
 
-- [**Do not update the 40+ package in a package manager.**](https://user-images.githubusercontent.com/73033672/224748135-684c208d-7816-4aaf-9d2f-0af48e9f3273.png) <br>
-Updating the 40+ packages with XinaA15 will break the jailbreak. To fix the jailbreak, follow the guide [here](https://github.com/NotDarkn/XinaA15/wiki/Fixes#sileo-wont-let-me-update-the-35-packages).
+- [**Do not install the Legacy arm64e Support tweak.**](https://www.reddit.com/r/jailbreak/comments/146e770) <br>
+XinaA15 does <b>NOT</b> support the Legacy arm64e Support tweak, especially on version `2.0.8` and later. This will give you a black screen.

@@ -3,7 +3,7 @@
 <picture>
 	<img align="left" height="120" src="https://cdn.discordapp.com/attachments/892067098728230963/1107684318760947762/XinaA15_Semi-Baner_-_Middle.png" alt="XinaA15 Banner" style="float: left;"/>
 </picture>
-<h3 align="right">An iOS 15.0-15.1.1 public beta, <br>semi-untethered jailbreak</h3> 
+<h3 align="right">An iOS 15.0-15.4.1 public beta, <br>semi-untethered jailbreak</h3> 
 <p align="right">
   <strong><a href="https://github.com/NotDarkn/XinaA15/wiki">Wiki</a></strong>
   •
@@ -16,7 +16,7 @@
 <div class="clear"></div>
 
 ***
-XinaA15 is a **semi-untethered jailbreak** made for **A12+ devices** running **iOS 15.0 up to 15.1.1.**
+XinaA15 is a **semi-untethered jailbreak** made for **A12+ devices** running **iOS 15.0 up to 15.4.1.**
 
 Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & **in-development jailbreak**. Any issues that you encounter are **your fault and responsibility.**
 
@@ -41,7 +41,7 @@ Upon use of this jailbreak, you acknowledge that XinaA15 is a **public beta** & 
 - **Report XinaA15 Issues Page:<br>**
 [XinaA15 GitHub Issues](https://github.com/jacksight/xina520_official_jailbreak/issues)
 
-## XinaA15 Screenshots: 1.1.8
-![IMG_MIX](https://user-images.githubusercontent.com/73033672/228721971-175cb6d2-628b-4e57-81a8-0a518608f827.PNG)
+## XinaA15 Screenshots: 2.0.8
+![3_screenshots](https://github.com/NotDarkn/XinaA15/assets/73033672/1bf1fb52-3d3e-4db0-9dd0-88d100935a4b)
 ***
 <h3 align="center">Want a much better guide? Go to the <a href="https://github.com/NotDarkn/XinaA15/wiki">Wiki</a>!</h3>
