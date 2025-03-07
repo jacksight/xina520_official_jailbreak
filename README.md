@@ -1,4 +1,4 @@
-# This proect has confirmed to be terminated/deprecated
+# This project has confirmed to be terminated/deprecated
 ### We appreciate your support during these days. If there's anything new, I'll will post it here (hopefully)...
 
 
