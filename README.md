@@ -1,3 +1,7 @@
+# This proect has confirmed to be terminated/deprecated
+### We appreciate your support during these days. If there's anything new, I'll will post it here (hopefully)...
+
+
 <h2 align="center"><a href="https://github.com/NotDarkn/XinaA15/wiki/Questions#how-do-i-switch-from-xinaa15-to-dopamine">XinaA15 → Dopamine Guide</h2>
 
 <picture>
